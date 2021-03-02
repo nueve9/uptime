@@ -19,6 +19,9 @@ sites:
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
+  - name: DTM
+    url: https://www.dtm-software.de
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
