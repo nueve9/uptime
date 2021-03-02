@@ -20,7 +20,7 @@ sites:
   - name: TCP ping
     url: 1.1.1.1
   - name: DTM
-    url: https://www.dtm-software.de
+    url: https://dtm-software.de
   
 
 status-website:
