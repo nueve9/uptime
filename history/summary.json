@@ -131,19 +131,17 @@
     "icon": "https://favicons.githubusercontent.com/wetter.com",
     "slug": "wetter",
     "status": "up",
-    "uptime": "50.20%",
-    "uptimeDay": "50.20%",
-    "uptimeWeek": "50.20%",
-    "uptimeMonth": "50.20%",
-    "uptimeYear": "50.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1209,
     "timeDay": 1209,
     "timeWeek": 1209,
     "timeMonth": 1209,
     "timeYear": 1209,
-    "dailyMinutesDown": {
-      "2021-03-02": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wetter1",
@@ -151,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/mujlxj2hj62au5xh.myfritz.net",
     "slug": "wetter1",
     "status": "down",
-    "uptime": "8.63%",
-    "uptimeDay": "8.63%",
-    "uptimeWeek": "8.63%",
-    "uptimeMonth": "8.63%",
-    "uptimeYear": "8.63%",
+    "uptime": "8.06%",
+    "uptimeDay": "8.06%",
+    "uptimeWeek": "8.06%",
+    "uptimeMonth": "8.06%",
+    "uptimeYear": "8.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 1
     }
   },
   {
@@ -171,18 +169,18 @@
     "icon": "https://favicons.githubusercontent.com/mujlxj2hj62au5xh.myfritz.net",
     "slug": "wetter2",
     "status": "down",
-    "uptime": "14.45%",
-    "uptimeDay": "14.45%",
-    "uptimeWeek": "14.45%",
-    "uptimeMonth": "14.45%",
-    "uptimeYear": "14.45%",
+    "uptime": "12.46%",
+    "uptimeDay": "12.46%",
+    "uptimeWeek": "12.46%",
+    "uptimeMonth": "12.46%",
+    "uptimeYear": "12.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 1
     }
   },
   {
@@ -191,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter3",
     "status": "down",
-    "uptime": "68.36%",
-    "uptimeDay": "68.36%",
-    "uptimeWeek": "68.36%",
-    "uptimeMonth": "68.36%",
-    "uptimeYear": "68.36%",
+    "uptime": "49.15%",
+    "uptimeDay": "49.15%",
+    "uptimeWeek": "49.15%",
+    "uptimeMonth": "49.15%",
+    "uptimeYear": "49.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
