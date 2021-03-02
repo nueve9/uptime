@@ -16,15 +16,18 @@ sites:
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
-    method: HEAD
+    method: GET
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
   - name: wetter
     url: https://wetter.com
-  - name: wetter
+  - name: wetter1
     url: https://mujlxj2hj62au5xh.myfritz.net:42969/
-  
+  - name: wetter2
+    url: https://mujlxj2hj62au5xh.myfritz.net:42969
+  - name: wetter3
+    url: mujlxj2hj62au5xh.myfritz.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
