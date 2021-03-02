@@ -22,6 +22,8 @@ sites:
     url: 1.1.1.1
   - name: wetter
     url: https://wetter.com
+  - name: wetter
+    url: https://mujlxj2hj62au5xh.myfritz.net:42969/
   
 
 status-website:
