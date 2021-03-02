@@ -16,6 +16,7 @@ sites:
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
+    method: HEAD
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
