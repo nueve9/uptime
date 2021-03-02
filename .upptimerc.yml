@@ -19,7 +19,8 @@ sites:
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
-    
+  - name: wetter
+    url: https://wetter.com
   
 
 status-website:
