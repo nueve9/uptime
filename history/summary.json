@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 61,
     "timeDay": 65,
-    "timeWeek": 61,
+    "timeWeek": 60,
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 86,
     "timeDay": 62,
-    "timeWeek": 86,
+    "timeWeek": 62,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 447,
-    "timeWeek": 410,
+    "timeWeek": 429,
     "timeMonth": 410,
     "timeYear": 410,
     "dailyMinutesDown": {}
@@ -94,18 +94,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-bis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 712,
     "timeDay": 736,
-    "timeWeek": 712,
+    "timeWeek": 710,
     "timeMonth": 712,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 1
+    }
   },
   {
     "name": "TCP ping",
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 37,
     "timeDay": 33,
-    "timeWeek": 37,
+    "timeWeek": 34,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {}
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-09": 9,
+      "2021-03-09": 1381,
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
