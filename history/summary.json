@@ -22,10 +22,10 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -33,7 +33,9 @@
     "timeWeek": 284,
     "timeMonth": 282,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 1
+    }
   },
   {
     "name": "Hacker News",
@@ -151,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-16": 18,
+      "2021-07-16": 925,
       "2021-07-15": 1440,
       "2021-07-14": 1440,
       "2021-07-13": 1440,
