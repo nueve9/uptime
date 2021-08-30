@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 283,
-    "timeWeek": 194,
+    "timeDay": 54,
+    "timeWeek": 161,
     "timeMonth": 118,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 202,
-    "timeWeek": 467,
-    "timeMonth": 302,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 441,
+    "timeWeek": 481,
+    "timeMonth": 309,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2021-07-16": 23
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 404,
-    "timeDay": 211,
-    "timeWeek": 364,
+    "time": 403,
+    "timeDay": 361,
+    "timeWeek": 371,
     "timeMonth": 414,
-    "timeYear": 404,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2021-03-15": 196
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 171,
-    "timeWeek": 110,
+    "timeDay": 8,
+    "timeWeek": 86,
     "timeMonth": 50,
     "timeYear": 25,
     "dailyMinutesDown": {}
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 832,
-    "timeDay": 893,
-    "timeWeek": 770,
+    "time": 831,
+    "timeDay": 652,
+    "timeWeek": 735,
     "timeMonth": 781,
-    "timeYear": 832,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2021-06-30": 18,
       "2021-06-18": 37,
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 92,
-    "timeWeek": 67,
-    "timeMonth": 60,
+    "timeDay": 34,
+    "timeWeek": 58,
+    "timeMonth": 59,
     "timeYear": 72,
     "dailyMinutesDown": {}
   },
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-29": 20,
+      "2021-08-30": 20,
+      "2021-08-29": 1440,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
       "2021-08-26": 1440,
