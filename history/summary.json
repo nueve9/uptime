@@ -145,11 +145,11 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 71,
     "timeDay": 34,
@@ -157,7 +157,7 @@
     "timeMonth": 64,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-03-09": 13,
+      "2022-03-09": 1,
       "2022-02-03": 118
     }
   },
@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 538,
+      "2022-03-09": 613,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
