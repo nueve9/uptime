@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 86,
-    "timeWeek": 76,
+    "timeDay": 51,
+    "timeWeek": 73,
     "timeMonth": 79,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 73,
-    "timeWeek": 151,
-    "timeMonth": 200,
+    "timeDay": 172,
+    "timeWeek": 164,
+    "timeMonth": 202,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2022-03-08": 25,
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 376,
-    "timeDay": 141,
-    "timeWeek": 314,
-    "timeMonth": 332,
+    "timeDay": 341,
+    "timeWeek": 328,
+    "timeMonth": 337,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2021-11-29": 31,
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 23,
-    "timeWeek": 17,
+    "timeDay": 8,
+    "timeWeek": 15,
     "timeMonth": 18,
     "timeYear": 33,
     "dailyMinutesDown": {}
@@ -104,17 +104,16 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.79%",
     "time": 839,
-    "timeDay": 861,
-    "timeWeek": 760,
+    "timeDay": 701,
+    "timeWeek": 747,
     "timeMonth": 834,
-    "timeYear": 834,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2022-04-11": 13,
       "2022-04-10": 27,
       "2022-04-03": 27,
       "2022-03-31": 88,
@@ -160,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 70,
-    "timeDay": 30,
-    "timeWeek": 65,
-    "timeMonth": 57,
-    "timeYear": 72,
+    "time": 72,
+    "timeDay": 939,
+    "timeWeek": 188,
+    "timeMonth": 85,
+    "timeYear": 74,
     "dailyMinutesDown": {
       "2022-03-09": 22,
       "2022-02-03": 118
@@ -187,7 +186,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-11": 1304,
+      "2022-04-12": 31,
+      "2022-04-11": 1440,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
@@ -550,8 +550,7 @@
       "2021-04-16": 1440,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
-      "2021-04-13": 1440,
-      "2021-04-12": 1440
+      "2021-04-13": 1440
     }
   }
 ]
