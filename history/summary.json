@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
+    "time": 98,
     "timeDay": 51,
-    "timeWeek": 69,
+    "timeWeek": 66,
     "timeMonth": 71,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 176,
-    "timeWeek": 305,
-    "timeMonth": 212,
-    "timeYear": 235,
+    "timeDay": 159,
+    "timeWeek": 283,
+    "timeMonth": 210,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2022-03-08": 25,
       "2022-03-01": 22,
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 374,
-    "timeDay": 354,
-    "timeWeek": 344,
+    "timeDay": 339,
+    "timeWeek": 342,
     "timeMonth": 339,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 9,
-    "timeWeek": 14,
+    "timeDay": 10,
+    "timeWeek": 13,
     "timeMonth": 14,
-    "timeYear": 33,
+    "timeYear": 32,
     "dailyMinutesDown": {}
   },
   {
@@ -104,17 +104,17 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.62%",
-    "time": 891,
-    "timeDay": 2553,
-    "timeWeek": 1854,
-    "timeMonth": 1237,
+    "time": 890,
+    "timeDay": 687,
+    "timeWeek": 1904,
+    "timeMonth": 1242,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2022-05-02": 54,
+      "2022-05-02": 40,
       "2022-05-01": 104,
       "2022-04-30": 354,
       "2022-04-29": 237,
@@ -175,10 +175,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 72,
-    "timeDay": 46,
-    "timeWeek": 57,
-    "timeMonth": 94,
-    "timeYear": 74,
+    "timeDay": 43,
+    "timeWeek": 52,
+    "timeMonth": 93,
+    "timeYear": 73,
     "dailyMinutesDown": {
       "2022-03-09": 22,
       "2022-02-03": 118
@@ -201,7 +201,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-02": 1290,
+      "2022-05-03": 38,
+      "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -564,8 +565,7 @@
       "2021-05-07": 1440,
       "2021-05-06": 1440,
       "2021-05-05": 1440,
-      "2021-05-04": 1440,
-      "2021-05-03": 1440
+      "2021-05-04": 1440
     }
   }
 ]
