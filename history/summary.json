@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 79,
-    "timeWeek": 87,
+    "timeDay": 66,
+    "timeWeek": 88,
     "timeMonth": 86,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 195,
-    "timeWeek": 267,
-    "timeMonth": 262,
+    "timeDay": 256,
+    "timeWeek": 265,
+    "timeMonth": 264,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2022-03-08": 25,
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 369,
-    "timeDay": 402,
-    "timeWeek": 360,
-    "timeMonth": 298,
+    "time": 370,
+    "timeDay": 392,
+    "timeWeek": 342,
+    "timeMonth": 300,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2021-11-29": 31,
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 32,
+    "timeDay": 12,
     "timeWeek": 21,
     "timeMonth": 22,
     "timeYear": 33,
@@ -104,13 +104,13 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.51%",
     "time": 899,
-    "timeDay": 983,
-    "timeWeek": 959,
+    "timeDay": 906,
+    "timeWeek": 955,
     "timeMonth": 956,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -196,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 72,
-    "timeDay": 52,
-    "timeWeek": 117,
-    "timeMonth": 77,
+    "timeDay": 61,
+    "timeWeek": 118,
+    "timeMonth": 78,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-03-09": 22,
@@ -222,7 +222,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 1296,
+      "2022-06-02": 46,
+      "2022-06-01": 1440,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
       "2022-05-29": 1440,
@@ -585,8 +586,7 @@
       "2021-06-06": 1440,
       "2021-06-05": 1440,
       "2021-06-04": 1440,
-      "2021-06-03": 1440,
-      "2021-06-02": 1440
+      "2021-06-03": 1440
     }
   }
 ]
