@@ -103,9 +103,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.48%",
@@ -115,6 +115,7 @@
     "timeMonth": 960,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2022-06-18": 0,
       "2022-06-16": 18,
       "2022-06-13": 16,
       "2022-06-12": 26,
@@ -228,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 40,
+      "2022-06-18": 1276,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
