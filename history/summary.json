@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 73,
-    "timeWeek": 137,
+    "timeDay": 74,
+    "timeWeek": 136,
     "timeMonth": 101,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 223,
-    "timeDay": 369,
-    "timeWeek": 202,
-    "timeMonth": 185,
+    "time": 224,
+    "timeDay": 351,
+    "timeWeek": 217,
+    "timeMonth": 196,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-03-08": 25,
@@ -51,9 +51,9 @@
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.88%",
     "time": 358,
-    "timeDay": 480,
-    "timeWeek": 326,
-    "timeMonth": 286,
+    "timeDay": 475,
+    "timeWeek": 356,
+    "timeMonth": 299,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2022-07-08": 527,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 14,
-    "timeWeek": 33,
+    "timeDay": 13,
+    "timeWeek": 32,
     "timeMonth": 23,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -106,14 +106,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.45%",
     "time": 899,
-    "timeDay": 948,
-    "timeWeek": 992,
-    "timeMonth": 912,
+    "timeDay": 706,
+    "timeWeek": 1000,
+    "timeMonth": 898,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2022-07-12": 29,
@@ -212,9 +212,9 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.92%",
     "time": 71,
-    "timeDay": 55,
-    "timeWeek": 62,
-    "timeMonth": 62,
+    "timeDay": 70,
+    "timeWeek": 63,
+    "timeMonth": 63,
     "timeYear": 69,
     "dailyMinutesDown": {
       "2022-07-01": 27,
@@ -241,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-13": 41,
+      "2022-07-14": 46,
+      "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -604,8 +605,7 @@
       "2021-07-18": 1440,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
-      "2021-07-15": 1440,
-      "2021-07-14": 1440
+      "2021-07-15": 1440
     }
   }
 ]
