@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 366,
-    "timeWeek": 168,
+    "timeDay": 101,
+    "timeWeek": 171,
     "timeMonth": 122,
     "timeYear": 104,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 231,
-    "timeDay": 168,
-    "timeWeek": 172,
-    "timeMonth": 214,
-    "timeYear": 232,
+    "time": 232,
+    "timeDay": 109,
+    "timeWeek": 178,
+    "timeMonth": 217,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2022-03-08": 25,
       "2022-03-01": 22
@@ -49,9 +49,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
-    "time": 350,
-    "timeDay": 284,
-    "timeWeek": 267,
+    "time": 349,
+    "timeDay": 143,
+    "timeWeek": 256,
     "timeMonth": 286,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 67,
-    "timeWeek": 35,
+    "timeDay": 25,
+    "timeWeek": 36,
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {}
@@ -111,10 +111,10 @@
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.32%",
     "time": 914,
-    "timeDay": 817,
-    "timeWeek": 930,
-    "timeMonth": 1010,
-    "timeYear": 939,
+    "timeDay": 935,
+    "timeWeek": 944,
+    "timeMonth": 1012,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2022-08-25": 30,
       "2022-08-22": 29,
@@ -218,8 +218,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 74,
-    "timeDay": 164,
-    "timeWeek": 176,
+    "timeDay": 140,
+    "timeWeek": 97,
     "timeMonth": 129,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -248,7 +248,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 1309,
+      "2022-08-26": 46,
+      "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
@@ -611,8 +612,7 @@
       "2021-08-30": 1440,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
-      "2021-08-27": 1440,
-      "2021-08-26": 1440
+      "2021-08-27": 1440
     }
   }
 ]
