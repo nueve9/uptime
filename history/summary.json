@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 67,
-    "timeWeek": 86,
-    "timeMonth": 113,
+    "timeDay": 63,
+    "timeWeek": 84,
+    "timeMonth": 112,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 237,
-    "timeWeek": 183,
-    "timeMonth": 234,
+    "timeDay": 256,
+    "timeWeek": 185,
+    "timeMonth": 232,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2022-03-08": 25,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 348,
-    "timeDay": 357,
-    "timeWeek": 271,
-    "timeMonth": 282,
-    "timeYear": 334,
+    "timeDay": 386,
+    "timeWeek": 272,
+    "timeMonth": 285,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2022-07-31": 17,
       "2022-07-08": 527,
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 13,
+    "timeDay": 12,
     "timeWeek": 24,
-    "timeMonth": 31,
+    "timeMonth": 30,
     "timeYear": 30,
     "dailyMinutesDown": {}
   },
@@ -111,9 +111,9 @@
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.32%",
     "time": 916,
-    "timeDay": 629,
-    "timeWeek": 887,
-    "timeMonth": 901,
+    "timeDay": 661,
+    "timeWeek": 890,
+    "timeMonth": 898,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2022-09-04": 32,
@@ -218,9 +218,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 74,
-    "timeDay": 85,
-    "timeWeek": 59,
-    "timeMonth": 106,
+    "timeDay": 47,
+    "timeWeek": 49,
+    "timeMonth": 105,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2022-08-25": 48,
@@ -248,7 +248,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-04": 1306,
+      "2022-09-05": 52,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -611,8 +612,7 @@
       "2021-09-09": 1440,
       "2021-09-08": 1440,
       "2021-09-07": 1440,
-      "2021-09-06": 1440,
-      "2021-09-05": 1440
+      "2021-09-06": 1440
     }
   }
 ]
