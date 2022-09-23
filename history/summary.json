@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 166,
-    "timeWeek": 133,
-    "timeMonth": 115,
-    "timeYear": 102,
+    "timeDay": 122,
+    "timeWeek": 139,
+    "timeMonth": 116,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 71,
-    "timeWeek": 230,
-    "timeMonth": 206,
+    "timeDay": 199,
+    "timeWeek": 212,
+    "timeMonth": 202,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2022-03-08": 25,
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 343,
-    "timeDay": 189,
-    "timeWeek": 306,
-    "timeMonth": 264,
+    "timeDay": 433,
+    "timeWeek": 305,
+    "timeMonth": 270,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-07-31": 17,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 58,
-    "timeWeek": 30,
+    "timeDay": 28,
+    "timeWeek": 32,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -107,14 +107,14 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.35%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.40%",
     "time": 917,
-    "timeDay": 974,
-    "timeWeek": 1073,
-    "timeMonth": 952,
-    "timeYear": 948,
+    "timeDay": 722,
+    "timeWeek": 1107,
+    "timeMonth": 948,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2022-09-20": 19,
       "2022-09-18": 74,
@@ -220,9 +220,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 74,
-    "timeDay": 77,
-    "timeWeek": 63,
-    "timeMonth": 61,
+    "timeDay": 45,
+    "timeWeek": 61,
+    "timeMonth": 60,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2022-08-25": 48,
@@ -250,7 +250,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-22": 49,
+      "2022-09-23": 54,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -613,8 +614,7 @@
       "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
-      "2021-09-24": 1440,
-      "2021-09-23": 1440
+      "2021-09-24": 1440
     }
   }
 ]
