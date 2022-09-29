@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 73,
-    "timeWeek": 94,
-    "timeMonth": 104,
+    "timeDay": 78,
+    "timeWeek": 82,
+    "timeMonth": 105,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 434,
-    "timeWeek": 203,
+    "timeDay": 258,
+    "timeWeek": 230,
     "timeMonth": 201,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 343,
-    "timeDay": 506,
-    "timeWeek": 336,
-    "timeMonth": 288,
+    "timeDay": 478,
+    "timeWeek": 377,
+    "timeMonth": 291,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-07-31": 17,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 24,
-    "timeWeek": 26,
+    "timeDay": 16,
+    "timeWeek": 20,
     "timeMonth": 26,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -111,9 +111,9 @@
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.41%",
     "time": 920,
-    "timeDay": 830,
-    "timeWeek": 938,
-    "timeMonth": 955,
+    "timeDay": 823,
+    "timeWeek": 912,
+    "timeMonth": 956,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2022-09-28": 21,
@@ -220,9 +220,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 74,
-    "timeDay": 85,
-    "timeWeek": 50,
-    "timeMonth": 52,
+    "timeDay": 51,
+    "timeWeek": 46,
+    "timeMonth": 50,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2022-08-25": 48,
@@ -250,7 +250,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-28": 1302,
+      "2022-09-29": 61,
+      "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
@@ -613,8 +614,7 @@
       "2021-10-03": 1440,
       "2021-10-02": 1440,
       "2021-10-01": 1440,
-      "2021-09-30": 1440,
-      "2021-09-29": 1440
+      "2021-09-30": 1440
     }
   }
 ]
