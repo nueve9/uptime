@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "99.99%",
@@ -41,7 +41,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
@@ -66,7 +66,7 @@
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.com.ico",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -84,7 +84,7 @@
   {
     "name": "Test for HEAD",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
     "status": "up",
     "uptime": "100.00%",
@@ -102,20 +102,21 @@
   {
     "name": "Secret Site BIS",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.41%",
     "time": 918,
-    "timeDay": 831,
+    "timeDay": 775,
     "timeWeek": 887,
     "timeMonth": 955,
     "timeYear": 949,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-10-01": 45,
       "2022-09-29": 22,
       "2022-09-28": 21,
@@ -205,13 +206,13 @@
       "2022-05-10": 16,
       "2022-05-09": 15,
       "2022-05-08": 113,
-      "2022-05-07": 48
+      "2022-05-07": 16
     }
   },
   {
     "name": "TCP ping",
     "url": "1.1.1.1",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
     "status": "up",
     "uptime": "99.95%",
@@ -236,7 +237,7 @@
   {
     "name": "Secret Site BRA",
     "url": "$SECRET_SITE_BRA",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bra",
     "status": "down",
     "uptime": "0.00%",
@@ -250,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 58,
+      "2022-10-02": 718,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
