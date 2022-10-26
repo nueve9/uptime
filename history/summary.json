@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 75,
-    "timeWeek": 78,
-    "timeMonth": 95,
+    "timeDay": 94,
+    "timeWeek": 83,
+    "timeMonth": 96,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 296,
-    "timeDay": 196,
-    "timeWeek": 3474,
-    "timeMonth": 1140,
+    "timeDay": 296,
+    "timeWeek": 3485,
+    "timeMonth": 1145,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2022-10-22": 84,
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 340,
-    "timeDay": 449,
-    "timeWeek": 302,
-    "timeMonth": 365,
+    "timeDay": 115,
+    "timeWeek": 248,
+    "timeMonth": 355,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2022-07-31": 17,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 11,
-    "timeWeek": 17,
+    "timeDay": 25,
+    "timeWeek": 19,
     "timeMonth": 27,
     "timeYear": 27,
     "dailyMinutesDown": {}
@@ -106,15 +106,15 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.39%",
     "time": 922,
-    "timeDay": 931,
-    "timeWeek": 867,
-    "timeMonth": 989,
-    "timeYear": 952,
+    "timeDay": 1139,
+    "timeWeek": 912,
+    "timeMonth": 997,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2022-10-24": 21,
       "2022-10-23": 21,
@@ -223,8 +223,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 74,
-    "timeDay": 64,
-    "timeWeek": 50,
+    "timeDay": 29,
+    "timeWeek": 47,
     "timeMonth": 64,
     "timeYear": 71,
     "dailyMinutesDown": {
@@ -253,7 +253,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 61,
+      "2022-10-26": 48,
+      "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
@@ -616,8 +617,7 @@
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
-      "2021-10-27": 1440,
-      "2021-10-26": 1440
+      "2021-10-27": 1440
     }
   }
 ]
