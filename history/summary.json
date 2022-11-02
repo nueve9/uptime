@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 77,
+    "timeDay": 75,
     "timeWeek": 128,
-    "timeMonth": 103,
+    "timeMonth": 104,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 295,
-    "timeDay": 135,
+    "timeDay": 198,
     "timeWeek": 184,
-    "timeMonth": 1073,
+    "timeMonth": 1088,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2022-10-22": 84,
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 339,
-    "timeDay": 335,
+    "timeDay": 422,
     "timeWeek": 333,
-    "timeMonth": 343,
+    "timeMonth": 337,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2022-10-28": 24,
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 26,
+    "timeDay": 10,
     "timeWeek": 33,
-    "timeMonth": 28,
+    "timeMonth": 29,
     "timeYear": 27,
     "dailyMinutesDown": {}
   },
@@ -112,9 +112,9 @@
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.39%",
     "time": 940,
-    "timeDay": 1448,
+    "timeDay": 1719,
     "timeWeek": 1667,
-    "timeMonth": 1169,
+    "timeMonth": 1176,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2022-11-01": 25,
@@ -225,9 +225,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.88%",
     "time": 73,
-    "timeDay": 93,
+    "timeDay": 97,
     "timeWeek": 73,
-    "timeMonth": 61,
+    "timeMonth": 62,
     "timeYear": 71,
     "dailyMinutesDown": {
       "2022-11-01": 164,
@@ -257,7 +257,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-01": 1401,
+      "2022-11-02": 53,
+      "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
@@ -620,8 +621,7 @@
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
-      "2021-11-03": 1440,
-      "2021-11-02": 1440
+      "2021-11-03": 1440
     }
   }
 ]
