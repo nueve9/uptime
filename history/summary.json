@@ -218,19 +218,20 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "88.11%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.83%",
     "time": 73,
-    "timeDay": 69,
-    "timeWeek": 73,
-    "timeMonth": 63,
+    "timeDay": 72,
+    "timeWeek": 74,
+    "timeMonth": 64,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-11-02": 171,
+      "2022-11-03": 42,
+      "2022-11-02": 182,
       "2022-11-01": 164,
       "2022-10-31": 40,
       "2022-08-25": 48,
@@ -258,7 +259,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-02": 1429,
+      "2022-11-03": 42,
+      "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
@@ -621,8 +623,7 @@
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
-      "2021-11-04": 1440,
-      "2021-11-03": 1440
+      "2021-11-04": 1440
     }
   }
 ]
