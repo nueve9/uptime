@@ -106,9 +106,9 @@
     "slug": "secret-site-bis",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.38%",
     "time": 944,
     "timeDay": 1042,
@@ -116,7 +116,7 @@
     "timeMonth": 1117,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2022-11-17": 1,
+      "2022-11-17": 24,
       "2022-11-12": 33,
       "2022-11-10": 18,
       "2022-11-08": 19,
@@ -217,11 +217,11 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "75.56%",
+    "uptimeDay": "75.73%",
     "uptimeWeek": "78.45%",
-    "uptimeMonth": "91.60%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
     "time": 70,
     "timeDay": 50,
@@ -240,7 +240,7 @@
       "2022-11-09": 258,
       "2022-11-08": 300,
       "2022-11-07": 277,
-      "2022-11-06": 239
+      "2022-11-06": 224
     }
   },
   {
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1331,
+      "2022-11-17": 1354,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
