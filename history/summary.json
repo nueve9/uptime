@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 168,
-    "timeWeek": 92,
-    "timeMonth": 133,
+    "timeDay": 67,
+    "timeWeek": 90,
+    "timeMonth": 129,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 285,
-    "timeDay": 263,
-    "timeWeek": 226,
-    "timeMonth": 196,
+    "time": 286,
+    "timeDay": 247,
+    "timeWeek": 210,
+    "timeMonth": 200,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2022-10-22": 84,
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 328,
-    "timeDay": 321,
-    "timeWeek": 308,
-    "timeMonth": 298,
-    "timeYear": 315,
+    "timeDay": 453,
+    "timeWeek": 329,
+    "timeMonth": 307,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-12-08": 23,
       "2022-10-28": 24,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 70,
-    "timeWeek": 24,
+    "timeDay": 13,
+    "timeWeek": 23,
     "timeMonth": 30,
     "timeYear": 24,
     "dailyMinutesDown": {}
@@ -106,14 +106,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.48%",
     "time": 954,
-    "timeDay": 941,
-    "timeWeek": 870,
-    "timeMonth": 880,
+    "timeDay": 736,
+    "timeWeek": 854,
+    "timeMonth": 874,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2022-12-10": 26,
@@ -224,8 +224,8 @@
     "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 139,
-    "timeWeek": 56,
+    "timeDay": 61,
+    "timeWeek": 54,
     "timeMonth": 62,
     "timeYear": 69,
     "dailyMinutesDown": {
@@ -262,7 +262,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-11": 41,
+      "2022-12-12": 39,
+      "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -625,8 +626,7 @@
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
-      "2021-12-13": 1440,
-      "2021-12-12": 1440
+      "2021-12-13": 1440
     }
   }
 ]
