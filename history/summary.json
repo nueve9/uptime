@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 83,
-    "timeWeek": 91,
-    "timeMonth": 116,
-    "timeYear": 105,
+    "time": 105,
+    "timeDay": 324,
+    "timeWeek": 126,
+    "timeMonth": 125,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 197,
-    "timeWeek": 168,
-    "timeMonth": 196,
-    "timeYear": 287,
+    "timeDay": 119,
+    "timeWeek": 174,
+    "timeMonth": 191,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-01-25": 27,
       "2022-10-22": 84
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
     "time": 313,
-    "timeDay": 135,
-    "timeWeek": 298,
-    "timeMonth": 316,
+    "timeDay": 357,
+    "timeWeek": 332,
+    "timeMonth": 312,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2023-03-16": 23,
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 20,
-    "timeWeek": 24,
-    "timeMonth": 30,
+    "timeDay": 65,
+    "timeWeek": 30,
+    "timeMonth": 32,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -108,15 +108,15 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.50%",
-    "time": 994,
-    "timeDay": 1025,
-    "timeWeek": 958,
-    "timeMonth": 887,
-    "timeYear": 1019,
+    "time": 995,
+    "timeDay": 1321,
+    "timeWeek": 991,
+    "timeMonth": 911,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2023-03-25": 16,
       "2023-03-24": 30,
@@ -227,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 67,
-    "timeWeek": 56,
-    "timeMonth": 69,
+    "timeDay": 101,
+    "timeWeek": 67,
+    "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2022-11-26": 44,
@@ -265,7 +265,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 1349,
+      "2023-03-26": 40,
+      "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
@@ -628,8 +629,7 @@
       "2022-03-30": 1440,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
-      "2022-03-27": 1440,
-      "2022-03-26": 1440
+      "2022-03-27": 1440
     }
   }
 ]
