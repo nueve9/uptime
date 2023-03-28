@@ -13,7 +13,7 @@
     "time": 105,
     "timeDay": 85,
     "timeWeek": 128,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 272,
     "timeDay": 143,
     "timeWeek": 172,
-    "timeMonth": 189,
+    "timeMonth": 188,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -43,19 +43,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.87%",
-    "time": 312,
-    "timeDay": 0,
-    "timeWeek": 324,
-    "timeMonth": 321,
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
+    "time": 313,
+    "timeDay": 455,
+    "timeWeek": 343,
+    "timeMonth": 323,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-03-27": 0,
+      "2023-03-28": 29,
+      "2023-03-27": 45,
       "2023-03-16": 23,
       "2023-02-10": 20,
       "2023-01-07": 16,
@@ -98,7 +99,7 @@
     "time": 27,
     "timeDay": 15,
     "timeWeek": 31,
-    "timeMonth": 33,
+    "timeMonth": 34,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -116,8 +117,8 @@
     "time": 1006,
     "timeDay": 840,
     "timeWeek": 1471,
-    "timeMonth": 1051,
-    "timeYear": 1030,
+    "timeMonth": 1057,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-03-27": 25,
       "2023-03-26": 45,
@@ -265,7 +266,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 1395,
+      "2023-03-28": 30,
+      "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
@@ -628,8 +630,7 @@
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
-      "2022-03-29": 1440,
-      "2022-03-28": 1440
+      "2022-03-29": 1440
     }
   }
 ]
