@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 115,
+    "timeDay": 82,
+    "timeWeek": 81,
+    "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 270,
-    "timeDay": 74,
-    "timeWeek": 165,
-    "timeMonth": 202,
-    "timeYear": 288,
+    "timeDay": 463,
+    "timeWeek": 174,
+    "timeMonth": 213,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-01-25": 27,
       "2022-10-22": 84
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 310,
-    "timeDay": 218,
-    "timeWeek": 287,
-    "timeMonth": 325,
+    "timeDay": 402,
+    "timeWeek": 280,
+    "timeMonth": 326,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-28": 29,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 15,
-    "timeWeek": 29,
-    "timeMonth": 32,
+    "timeDay": 14,
+    "timeWeek": 21,
+    "timeMonth": 31,
     "timeYear": 27,
     "dailyMinutesDown": {}
   },
@@ -111,13 +111,13 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "93.08%",
-    "uptimeWeek": "91.59%",
-    "uptimeMonth": "95.33%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "99.29%",
     "time": 1062,
-    "timeDay": 2313,
-    "timeWeek": 1667,
-    "timeMonth": 1480,
+    "timeDay": 2265,
+    "timeWeek": 1702,
+    "timeMonth": 1474,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2023-04-25": 100,
@@ -214,9 +214,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 76,
-    "timeWeek": 90,
-    "timeMonth": 73,
+    "timeDay": 51,
+    "timeWeek": 94,
+    "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
       "2022-11-26": 44,
@@ -252,7 +252,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-25": 1330,
+      "2023-04-26": 35,
+      "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
@@ -615,8 +616,7 @@
       "2022-04-30": 1440,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
-      "2022-04-27": 1440,
-      "2022-04-26": 1440
+      "2022-04-27": 1440
     }
   }
 ]
