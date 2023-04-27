@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 82,
-    "timeWeek": 81,
-    "timeMonth": 107,
+    "timeDay": 81,
+    "timeWeek": 80,
+    "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 270,
-    "timeDay": 463,
-    "timeWeek": 174,
-    "timeMonth": 213,
-    "timeYear": 289,
+    "timeDay": 223,
+    "timeWeek": 202,
+    "timeMonth": 214,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2023-01-25": 27,
       "2022-10-22": 84
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 310,
-    "timeDay": 402,
-    "timeWeek": 280,
-    "timeMonth": 326,
+    "timeDay": 277,
+    "timeWeek": 300,
+    "timeMonth": 323,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-28": 29,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 14,
-    "timeWeek": 21,
-    "timeMonth": 31,
+    "timeDay": 17,
+    "timeWeek": 20,
+    "timeMonth": 29,
     "timeYear": 27,
     "dailyMinutesDown": {}
   },
@@ -112,13 +112,13 @@
     "uptime": "99.67%",
     "uptimeDay": "95.55%",
     "uptimeWeek": "93.33%",
-    "uptimeMonth": "95.31%",
+    "uptimeMonth": "95.32%",
     "uptimeYear": "99.29%",
     "time": 1063,
-    "timeDay": 992,
-    "timeWeek": 1366,
-    "timeMonth": 1378,
-    "timeYear": 1079,
+    "timeDay": 1060,
+    "timeWeek": 1355,
+    "timeMonth": 1387,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2023-04-26": 64,
       "2023-04-25": 100,
@@ -213,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 51,
-    "timeWeek": 94,
-    "timeMonth": 71,
+    "timeDay": 84,
+    "timeWeek": 59,
+    "timeMonth": 70,
     "timeYear": 71,
     "dailyMinutesDown": {
       "2022-11-26": 44,
@@ -251,7 +251,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 1331,
+      "2023-04-27": 37,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -614,8 +615,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   }
 ]
