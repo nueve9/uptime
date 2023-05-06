@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 94,
-    "timeWeek": 126,
+    "timeDay": 73,
+    "timeWeek": 124,
     "timeMonth": 116,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 140,
-    "timeWeek": 368,
-    "timeMonth": 246,
-    "timeYear": 290,
+    "timeDay": 413,
+    "timeWeek": 397,
+    "timeMonth": 242,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-01-25": 27,
       "2022-10-22": 84
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 311,
-    "timeDay": 256,
-    "timeWeek": 354,
-    "timeMonth": 328,
-    "timeYear": 304,
+    "timeDay": 557,
+    "timeWeek": 367,
+    "timeMonth": 329,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2023-03-28": 29,
       "2023-03-27": 45,
@@ -97,7 +97,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 18,
+    "timeDay": 14,
     "timeWeek": 28,
     "timeMonth": 32,
     "timeYear": 27,
@@ -115,8 +115,8 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.28%",
     "time": 1060,
-    "timeDay": 916,
-    "timeWeek": 910,
+    "timeDay": 815,
+    "timeWeek": 886,
     "timeMonth": 1135,
     "timeYear": 1056,
     "dailyMinutesDown": {
@@ -213,8 +213,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 80,
-    "timeWeek": 65,
+    "timeDay": 69,
+    "timeWeek": 68,
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
@@ -251,7 +251,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-05": 1300,
+      "2023-05-06": 32,
+      "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
@@ -614,8 +615,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1440
+      "2022-05-07": 1440
     }
   }
 ]
