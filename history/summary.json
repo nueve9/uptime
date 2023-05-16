@@ -108,18 +108,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "99.28%",
     "time": 1063,
-    "timeDay": 700,
+    "timeDay": 719,
     "timeWeek": 840,
-    "timeMonth": 1161,
+    "timeMonth": 1160,
     "timeYear": 1051,
     "dailyMinutesDown": {
+      "2023-05-16": 1,
       "2023-05-12": 38,
       "2023-05-10": 30,
       "2023-05-09": 38,
@@ -197,8 +198,7 @@
       "2022-12-24": 25,
       "2022-12-23": 28,
       "2022-12-22": 25,
-      "2022-12-20": 27,
-      "2022-12-19": 25
+      "2022-12-20": 27
     }
   },
   {
@@ -207,7 +207,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -251,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-16": 35,
+      "2023-05-16": 1290,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
