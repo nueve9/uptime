@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 67,
-    "timeWeek": 90,
+    "timeDay": 83,
+    "timeWeek": 88,
     "timeMonth": 118,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 267,
-    "timeDay": 141,
-    "timeWeek": 179,
-    "timeMonth": 173,
+    "time": 268,
+    "timeDay": 320,
+    "timeWeek": 214,
+    "timeMonth": 183,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 312,
-    "timeDay": 430,
-    "timeWeek": 293,
+    "timeDay": 163,
+    "timeWeek": 313,
     "timeMonth": 290,
     "timeYear": 307,
     "dailyMinutesDown": {
@@ -97,8 +97,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 13,
-    "timeWeek": 29,
+    "timeDay": 24,
+    "timeWeek": 24,
     "timeMonth": 27,
     "timeYear": 29,
     "dailyMinutesDown": {}
@@ -115,10 +115,10 @@
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.14%",
     "time": 1035,
-    "timeDay": 704,
-    "timeWeek": 860,
+    "timeDay": 1178,
+    "timeWeek": 868,
     "timeMonth": 883,
-    "timeYear": 1054,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-07-04": 16,
       "2023-06-25": 251,
@@ -214,7 +214,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 42,
+    "timeDay": 31,
     "timeWeek": 56,
     "timeMonth": 59,
     "timeYear": 70,
@@ -252,7 +252,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-06": 47,
+      "2023-07-07": 46,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -615,8 +616,7 @@
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-08": 1440
     }
   }
 ]
