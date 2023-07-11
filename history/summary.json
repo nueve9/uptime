@@ -107,10 +107,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.33%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.14%",
     "time": 1036,
@@ -119,6 +119,7 @@
     "timeMonth": 890,
     "timeYear": 1053,
     "dailyMinutesDown": {
+      "2023-07-11": 0,
       "2023-07-10": 26,
       "2023-07-08": 26,
       "2023-07-04": 16,
@@ -198,8 +199,7 @@
       "2023-01-22": 25,
       "2023-01-19": 57,
       "2023-01-17": 16,
-      "2023-01-12": 18,
-      "2023-01-09": 29
+      "2023-01-12": 18
     }
   },
   {
@@ -209,12 +209,12 @@
     "slug": "tcp-ping",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 56,
+    "timeDay": 30,
     "timeWeek": 50,
     "timeMonth": 59,
     "timeYear": 70,
@@ -253,7 +253,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-11": 40,
+      "2023-07-11": 1279,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
