@@ -6,12 +6,12 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 262,
+    "timeDay": 430,
     "timeWeek": 179,
     "timeMonth": 147,
     "timeYear": 117,
@@ -210,10 +210,10 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.30%",
     "time": 70,
@@ -222,6 +222,7 @@
     "timeMonth": 58,
     "timeYear": 70,
     "dailyMinutesDown": {
+      "2023-08-01": 1,
       "2023-07-10": 38,
       "2022-11-26": 44,
       "2022-11-25": 216,
@@ -236,7 +237,7 @@
       "2022-11-16": 239,
       "2022-11-15": 469,
       "2022-11-14": 374,
-      "2022-11-13": 43
+      "2022-11-13": 23
     }
   },
   {
@@ -256,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 44,
+      "2023-08-01": 1123,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
