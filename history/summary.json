@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 110,
-    "timeDay": 146,
-    "timeWeek": 148,
-    "timeMonth": 139,
-    "timeYear": 116,
+    "time": 111,
+    "timeDay": 262,
+    "timeWeek": 179,
+    "timeMonth": 147,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2023-07-31": 23,
       "2023-07-28": 17
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 269,
-    "timeDay": 859,
-    "timeWeek": 478,
-    "timeMonth": 236,
+    "timeDay": 101,
+    "timeWeek": 461,
+    "timeMonth": 234,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 304,
-    "timeDay": 404,
-    "timeWeek": 371,
-    "timeMonth": 310,
-    "timeYear": 305,
+    "timeDay": 112,
+    "timeWeek": 351,
+    "timeMonth": 306,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-06-02": 22,
       "2023-03-28": 29,
@@ -98,8 +98,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 15,
-    "timeWeek": 22,
+    "timeDay": 24,
+    "timeWeek": 23,
     "timeMonth": 23,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -116,9 +116,9 @@
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.12%",
     "time": 1042,
-    "timeDay": 712,
-    "timeWeek": 786,
-    "timeMonth": 933,
+    "timeDay": 965,
+    "timeWeek": 820,
+    "timeMonth": 938,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2023-07-31": 38,
@@ -217,9 +217,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 58,
-    "timeWeek": 60,
-    "timeMonth": 59,
+    "timeDay": 44,
+    "timeWeek": 55,
+    "timeMonth": 58,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2023-07-10": 38,
@@ -256,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 1309,
+      "2023-08-01": 44,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -619,8 +620,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   }
 ]
