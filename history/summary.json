@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 430,
-    "timeWeek": 179,
-    "timeMonth": 147,
+    "timeDay": 90,
+    "timeWeek": 182,
+    "timeMonth": 148,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-07-31": 23,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 269,
-    "timeDay": 101,
-    "timeWeek": 461,
-    "timeMonth": 234,
+    "timeDay": 151,
+    "timeWeek": 276,
+    "timeMonth": 229,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 304,
-    "timeDay": 112,
-    "timeWeek": 351,
-    "timeMonth": 306,
-    "timeYear": 304,
+    "timeDay": 450,
+    "timeWeek": 349,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2023-06-02": 22,
       "2023-03-28": 29,
@@ -98,7 +98,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 24,
+    "timeDay": 12,
     "timeWeek": 23,
     "timeMonth": 23,
     "timeYear": 28,
@@ -111,15 +111,15 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.12%",
     "time": 1042,
-    "timeDay": 965,
-    "timeWeek": 820,
+    "timeDay": 686,
+    "timeWeek": 821,
     "timeMonth": 938,
-    "timeYear": 1042,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2023-07-31": 38,
       "2023-07-27": 38,
@@ -212,17 +212,16 @@
     "slug": "tcp-ping",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.30%",
     "time": 70,
-    "timeDay": 39,
+    "timeDay": 32,
     "timeWeek": 52,
     "timeMonth": 57,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-08-01": 13,
       "2023-07-10": 38,
       "2022-11-26": 44,
       "2022-11-25": 216,
@@ -237,7 +236,7 @@
       "2022-11-16": 239,
       "2022-11-15": 469,
       "2022-11-14": 374,
-      "2022-11-13": 23
+      "2022-11-13": 43
     }
   },
   {
@@ -257,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 1135,
+      "2023-08-02": 37,
+      "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -620,8 +620,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
-      "2022-08-03": 1440,
-      "2022-08-02": 1440
+      "2022-08-03": 1440
     }
   }
 ]
