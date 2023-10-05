@@ -91,18 +91,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 22,
-    "timeWeek": 52,
-    "timeMonth": 40,
+    "timeDay": 67,
+    "timeWeek": 59,
+    "timeMonth": 43,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 1
+    }
   },
   {
     "name": "Secret Site BIS",
@@ -267,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 32,
+      "2023-10-05": 120,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
