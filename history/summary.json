@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 97,
-    "timeWeek": 186,
-    "timeMonth": 129,
+    "timeDay": 63,
+    "timeWeek": 187,
+    "timeMonth": 128,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-07-31": 23,
@@ -32,13 +32,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 146,
-    "timeWeek": 237,
-    "timeMonth": 262,
+    "timeDay": 197,
+    "timeWeek": 240,
+    "timeMonth": 259,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-01-25": 27,
-      "2022-10-22": 84
+      "2023-01-25": 27
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 305,
-    "timeDay": 92,
-    "timeWeek": 279,
-    "timeMonth": 306,
-    "timeYear": 303,
+    "timeDay": 443,
+    "timeWeek": 276,
+    "timeMonth": 307,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-10-17": 19,
       "2023-06-02": 22,
@@ -99,8 +98,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 29,
-    "timeDay": 23,
-    "timeWeek": 34,
+    "timeDay": 12,
+    "timeWeek": 33,
     "timeMonth": 39,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -119,8 +118,8 @@
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.26%",
     "time": 1023,
-    "timeDay": 884,
-    "timeWeek": 850,
+    "timeDay": 672,
+    "timeWeek": 851,
     "timeMonth": 950,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -233,9 +232,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 68,
-    "timeDay": 64,
-    "timeWeek": 62,
-    "timeMonth": 52,
+    "timeDay": 92,
+    "timeWeek": 71,
+    "timeMonth": 54,
     "timeYear": 67,
     "dailyMinutesDown": {
       "2023-08-28": 23,
@@ -273,7 +272,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1306,
+      "2023-10-22": 35,
+      "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -636,8 +636,7 @@
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
-      "2022-10-23": 1440,
-      "2022-10-22": 1440
+      "2022-10-23": 1440
     }
   }
 ]
