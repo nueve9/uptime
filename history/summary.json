@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 95,
-    "timeWeek": 78,
+    "timeDay": 87,
+    "timeWeek": 81,
     "timeMonth": 95,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 24,
-    "timeWeek": 248,
-    "timeMonth": 190,
-    "timeYear": 207,
+    "timeDay": 138,
+    "timeWeek": 246,
+    "timeMonth": 188,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.91%",
     "time": 325,
-    "timeDay": 91,
-    "timeWeek": 1069,
-    "timeMonth": 491,
-    "timeYear": 333,
+    "timeDay": 154,
+    "timeWeek": 1048,
+    "timeMonth": 485,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2023-12-15": 29,
       "2023-12-12": 222,
@@ -100,7 +100,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 29,
-    "timeDay": 23,
+    "timeDay": 21,
     "timeWeek": 19,
     "timeMonth": 18,
     "timeYear": 28,
@@ -120,10 +120,10 @@
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.40%",
     "time": 1036,
-    "timeDay": 1013,
-    "timeWeek": 926,
-    "timeMonth": 998,
-    "timeYear": 1034,
+    "timeDay": 957,
+    "timeWeek": 952,
+    "timeMonth": 1004,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2023-12-17": 26,
       "2023-12-16": 25,
@@ -237,8 +237,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 207,
-    "timeDay": 29,
-    "timeWeek": 176,
+    "timeDay": 65,
+    "timeWeek": 179,
     "timeMonth": 98,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -264,7 +264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 1368,
+      "2023-12-18": 35,
+      "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -627,8 +628,7 @@
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
-      "2022-12-19": 1440,
-      "2022-12-18": 1440
+      "2022-12-19": 1440
     }
   }
 ]
