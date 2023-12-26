@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 79,
-    "timeWeek": 73,
-    "timeMonth": 93,
-    "timeYear": 117,
+    "timeDay": 66,
+    "timeWeek": 72,
+    "timeMonth": 92,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2023-07-31": 23,
       "2023-07-28": 17
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 204,
-    "timeWeek": 305,
-    "timeMonth": 215,
+    "timeDay": 185,
+    "timeWeek": 304,
+    "timeMonth": 221,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.91%",
     "time": 326,
-    "timeDay": 366,
-    "timeWeek": 329,
-    "timeMonth": 505,
+    "timeDay": 509,
+    "timeWeek": 347,
+    "timeMonth": 516,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2023-12-15": 29,
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 17,
+    "timeDay": 13,
     "timeWeek": 18,
-    "timeMonth": 19,
+    "timeMonth": 18,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2023-10-05": 28
@@ -115,15 +115,15 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "97.03%",
+    "uptimeDay": "97.13%",
     "uptimeWeek": "97.71%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "99.39%",
-    "time": 1050,
-    "timeDay": 821,
-    "timeWeek": 1415,
-    "timeMonth": 1154,
-    "timeYear": 1039,
+    "time": 1049,
+    "timeDay": 757,
+    "timeWeek": 1394,
+    "timeMonth": 1145,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2023-12-25": 41,
       "2023-12-24": 38,
@@ -237,10 +237,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 208,
-    "timeDay": 33,
-    "timeWeek": 168,
-    "timeMonth": 121,
-    "timeYear": 236,
+    "timeDay": 52,
+    "timeWeek": 167,
+    "timeMonth": 122,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2023-08-28": 23,
       "2023-08-16": 19,
@@ -264,7 +264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-25": 1375,
+      "2023-12-26": 33,
+      "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -627,8 +628,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   }
 ]
