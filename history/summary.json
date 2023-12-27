@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 116,
-    "timeDay": 66,
-    "timeWeek": 72,
-    "timeMonth": 92,
+    "time": 117,
+    "timeDay": 95,
+    "timeWeek": 75,
+    "timeMonth": 93,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-07-31": 23,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 185,
-    "timeWeek": 304,
-    "timeMonth": 221,
+    "timeDay": 121,
+    "timeWeek": 308,
+    "timeMonth": 215,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.91%",
     "time": 326,
-    "timeDay": 509,
-    "timeWeek": 347,
-    "timeMonth": 516,
+    "timeDay": 84,
+    "timeWeek": 341,
+    "timeMonth": 506,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2023-12-15": 29,
@@ -100,7 +100,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 13,
+    "timeDay": 21,
     "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 28,
@@ -115,14 +115,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.80%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.39%",
     "time": 1049,
-    "timeDay": 764,
-    "timeWeek": 1350,
-    "timeMonth": 1139,
+    "timeDay": 931,
+    "timeWeek": 1380,
+    "timeMonth": 1146,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2023-12-26": 25,
@@ -236,9 +236,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 208,
-    "timeDay": 52,
-    "timeWeek": 167,
+    "time": 207,
+    "timeDay": 61,
+    "timeWeek": 173,
     "timeMonth": 122,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -264,7 +264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-26": 1367,
+      "2023-12-27": 33,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -627,8 +628,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   }
 ]
