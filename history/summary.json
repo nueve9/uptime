@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 74,
-    "timeWeek": 71,
-    "timeMonth": 87,
-    "timeYear": 116,
+    "timeDay": 78,
+    "timeWeek": 73,
+    "timeMonth": 86,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2023-07-31": 23,
       "2023-07-28": 17
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 131,
-    "timeWeek": 276,
-    "timeMonth": 242,
+    "timeDay": 196,
+    "timeWeek": 279,
+    "timeMonth": 245,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -47,14 +47,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "92.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.89%",
     "time": 323,
-    "timeDay": 261,
-    "timeWeek": 312,
-    "timeMonth": 497,
+    "timeDay": 146,
+    "timeWeek": 288,
+    "timeMonth": 498,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2024-01-10": 104,
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 10,
-    "timeWeek": 15,
+    "timeDay": 18,
+    "timeWeek": 16,
     "timeMonth": 19,
     "timeYear": 28,
     "dailyMinutesDown": {
@@ -115,14 +115,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.39%",
     "time": 1043,
-    "timeDay": 698,
-    "timeWeek": 928,
-    "timeMonth": 1184,
+    "timeDay": 694,
+    "timeWeek": 904,
+    "timeMonth": 1186,
     "timeYear": 1037,
     "dailyMinutesDown": {
       "2024-01-10": 17,
@@ -237,10 +237,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 202,
-    "timeDay": 30,
-    "timeWeek": 38,
+    "timeDay": 48,
+    "timeWeek": 41,
     "timeMonth": 104,
-    "timeYear": 235,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2023-08-28": 23,
       "2023-08-16": 19,
@@ -264,7 +264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-11": 35,
+      "2024-01-12": 35,
+      "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
@@ -627,8 +628,7 @@
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
-      "2023-01-13": 1440,
-      "2023-01-12": 1440
+      "2023-01-13": 1440
     }
   }
 ]
