@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 119,
-    "timeWeek": 91,
+    "timeDay": 64,
+    "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 197,
-    "timeWeek": 182,
+    "time": 205,
+    "timeDay": 154,
+    "timeWeek": 194,
     "timeMonth": 182,
     "timeYear": 208,
     "dailyMinutesDown": {}
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 322,
-    "timeDay": 419,
-    "timeWeek": 340,
-    "timeMonth": 275,
-    "timeYear": 329,
+    "timeDay": 383,
+    "timeWeek": 371,
+    "timeMonth": 277,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2024-01-15": 26,
       "2024-01-10": 104,
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 27,
-    "timeDay": 9,
-    "timeWeek": 22,
-    "timeMonth": 20,
+    "timeDay": 10,
+    "timeWeek": 20,
+    "timeMonth": 19,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2023-10-05": 28
@@ -113,13 +113,13 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "96.87%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.39%",
-    "time": 1034,
-    "timeDay": 814,
-    "timeWeek": 899,
+    "time": 1033,
+    "timeDay": 785,
+    "timeWeek": 840,
     "timeMonth": 946,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -234,10 +234,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 194,
-    "timeDay": 25,
+    "time": 193,
+    "timeDay": 26,
     "timeWeek": 30,
-    "timeMonth": 38,
+    "timeMonth": 37,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2023-08-28": 23,
@@ -262,7 +262,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-26": 1347,
+      "2024-02-27": 32,
+      "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -625,8 +626,7 @@
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
-      "2023-02-28": 1440,
-      "2023-02-27": 1440
+      "2023-02-28": 1440
     }
   }
 ]
