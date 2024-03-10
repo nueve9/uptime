@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 77,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 113,
+    "timeDay": 372,
+    "timeWeek": 123,
+    "timeMonth": 93,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2023-07-31": 23,
       "2023-07-28": 17
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 107,
-    "timeWeek": 206,
-    "timeMonth": 170,
+    "timeDay": 175,
+    "timeWeek": 203,
+    "timeMonth": 173,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 320,
-    "timeDay": 154,
-    "timeWeek": 230,
-    "timeMonth": 286,
+    "time": 321,
+    "timeDay": 343,
+    "timeWeek": 261,
+    "timeMonth": 293,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -99,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 27,
-    "timeDay": 21,
-    "timeWeek": 18,
+    "timeDay": 15,
+    "timeWeek": 17,
     "timeMonth": 19,
     "timeYear": 27,
     "dailyMinutesDown": {
@@ -114,14 +114,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "98.26%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.39%",
-    "time": 1029,
-    "timeDay": 1004,
-    "timeWeek": 970,
-    "timeMonth": 953,
+    "time": 1028,
+    "timeDay": 728,
+    "timeWeek": 948,
+    "timeMonth": 944,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-03-09": 25,
@@ -236,8 +236,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 191,
-    "timeDay": 25,
-    "timeWeek": 45,
+    "timeDay": 34,
+    "timeWeek": 41,
     "timeMonth": 37,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -263,7 +263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-09": 1366,
+      "2024-03-10": 35,
+      "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -626,8 +627,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   }
 ]
