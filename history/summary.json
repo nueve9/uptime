@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 81,
-    "timeWeek": 123,
+    "timeDay": 68,
+    "timeWeek": 120,
     "timeMonth": 93,
-    "timeYear": 114,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2023-07-31": 23,
       "2023-07-28": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 179,
-    "timeWeek": 203,
-    "timeMonth": 172,
-    "timeYear": 207,
+    "time": 205,
+    "timeDay": 686,
+    "timeWeek": 260,
+    "timeMonth": 189,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 321,
-    "timeDay": 372,
-    "timeWeek": 264,
-    "timeMonth": 293,
+    "timeDay": 331,
+    "timeWeek": 301,
+    "timeMonth": 291,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -99,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 27,
-    "timeDay": 16,
-    "timeWeek": 17,
+    "timeDay": 10,
+    "timeWeek": 15,
     "timeMonth": 19,
     "timeYear": 27,
     "dailyMinutesDown": {
@@ -116,13 +116,13 @@
     "uptime": "99.80%",
     "uptimeDay": "98.17%",
     "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.74%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.40%",
-    "time": 1024,
-    "timeDay": 725,
-    "timeWeek": 910,
-    "timeMonth": 932,
-    "timeYear": 1035,
+    "time": 1023,
+    "timeDay": 712,
+    "timeWeek": 894,
+    "timeMonth": 927,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-03-11": 26,
       "2024-03-09": 25,
@@ -236,8 +236,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 191,
-    "timeDay": 46,
-    "timeWeek": 40,
+    "timeDay": 40,
+    "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -263,7 +263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 1368,
+      "2024-03-12": 32,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -626,8 +627,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   }
 ]
