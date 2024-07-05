@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 110,
-    "timeWeek": 96,
+    "timeDay": 75,
+    "timeWeek": 86,
     "timeMonth": 98,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 387,
-    "timeWeek": 302,
+    "time": 208,
+    "timeDay": 245,
+    "timeWeek": 310,
     "timeMonth": 198,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 322,
-    "timeDay": 305,
-    "timeWeek": 396,
-    "timeMonth": 318,
-    "timeYear": 326,
+    "timeDay": 454,
+    "timeWeek": 397,
+    "timeMonth": 319,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-06-16": 17,
       "2024-03-26": 24,
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 29,
-    "timeDay": 18,
-    "timeWeek": 28,
-    "timeMonth": 27,
+    "timeDay": 10,
+    "timeWeek": 15,
+    "timeMonth": 26,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2024-05-01": 37,
@@ -115,12 +115,12 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "97.35%",
-    "uptimeWeek": "93.85%",
+    "uptimeWeek": "93.86%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.40%",
     "time": 960,
-    "timeDay": 903,
-    "timeWeek": 869,
+    "timeDay": 897,
+    "timeWeek": 875,
     "timeMonth": 995,
     "timeYear": 968,
     "dailyMinutesDown": {
@@ -200,10 +200,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 500,
-    "timeWeek": 320,
-    "timeMonth": 257,
-    "timeYear": 264,
+    "timeDay": 146,
+    "timeWeek": 319,
+    "timeMonth": 256,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2024-06-20": 18,
       "2023-08-28": 23,
@@ -228,7 +228,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-04": 1313,
+      "2024-07-05": 37,
+      "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -591,8 +592,7 @@
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
-      "2023-07-07": 1440,
-      "2023-07-06": 1440
+      "2023-07-07": 1440
     }
   }
 ]
