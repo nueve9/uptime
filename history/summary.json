@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 113,
-    "timeWeek": 99,
+    "timeDay": 95,
+    "timeWeek": 98,
     "timeMonth": 91,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 37,
       "2023-07-31": 23
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 213,
-    "timeWeek": 348,
-    "timeMonth": 246,
+    "time": 209,
+    "timeDay": 197,
+    "timeWeek": 318,
+    "timeMonth": 232,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 321,
-    "timeDay": 128,
-    "timeWeek": 266,
-    "timeMonth": 301,
+    "timeDay": 306,
+    "timeWeek": 251,
+    "timeMonth": 300,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-06-16": 17,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 19,
-    "timeWeek": 16,
-    "timeMonth": 19,
+    "timeDay": 17,
+    "timeWeek": 17,
+    "timeMonth": 18,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2024-05-01": 37,
@@ -113,13 +113,13 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "97.13%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "94.73%",
     "uptimeYear": "99.24%",
     "time": 964,
-    "timeDay": 972,
-    "timeWeek": 884,
+    "timeDay": 915,
+    "timeWeek": 887,
     "timeMonth": 962,
     "timeYear": 970,
     "dailyMinutesDown": {
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 170,
-    "timeWeek": 158,
-    "timeMonth": 212,
+    "timeDay": 135,
+    "timeWeek": 153,
+    "timeMonth": 181,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2024-06-20": 18,
@@ -226,7 +226,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 1315,
+      "2024-07-29": 40,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -589,8 +590,7 @@
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
-      "2023-07-31": 1440,
-      "2023-07-30": 1440
+      "2023-07-31": 1440
     }
   }
 ]
