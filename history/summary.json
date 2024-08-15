@@ -52,7 +52,7 @@
     "timeDay": 0,
     "timeWeek": 359,
     "timeMonth": 307,
-    "timeYear": 328,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-06-16": 17,
       "2024-03-26": 24,
@@ -110,19 +110,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "99.24%",
     "time": 959,
     "timeDay": 665,
-    "timeWeek": 811,
+    "timeWeek": 808,
     "timeMonth": 880,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2024-08-15": 23,
+      "2024-08-15": 24,
       "2024-08-14": 85,
       "2024-08-13": 39,
       "2024-08-12": 44,
@@ -187,7 +187,7 @@
       "2024-06-02": 26,
       "2024-06-01": 23,
       "2024-05-31": 27,
-      "2024-05-30": 64
+      "2024-05-30": 42
     }
   },
   {
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 1217,
+      "2024-08-15": 1281,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
