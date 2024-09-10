@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 104,
-    "timeWeek": 88,
-    "timeMonth": 98,
+    "timeDay": 62,
+    "timeWeek": 87,
+    "timeMonth": 97,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 163,
-    "timeWeek": 444,
-    "timeMonth": 281,
+    "timeDay": 213,
+    "timeWeek": 430,
+    "timeMonth": 286,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
     "time": 322,
-    "timeDay": 144,
-    "timeWeek": 352,
-    "timeMonth": 312,
+    "timeDay": 378,
+    "timeWeek": 344,
+    "timeMonth": 320,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 22,
-    "timeWeek": 16,
-    "timeMonth": 25,
+    "timeDay": 10,
+    "timeWeek": 17,
+    "timeMonth": 24,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2024-05-01": 37,
@@ -113,14 +113,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "94.68%",
+    "uptimeDay": "95.08%",
     "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.63%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "99.30%",
     "time": 968,
-    "timeDay": 1021,
-    "timeWeek": 962,
-    "timeMonth": 978,
+    "timeDay": 850,
+    "timeWeek": 948,
+    "timeMonth": 976,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2024-09-09": 70,
@@ -200,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 235,
-    "timeWeek": 251,
-    "timeMonth": 176,
+    "timeDay": 178,
+    "timeWeek": 252,
+    "timeMonth": 172,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2024-06-20": 18
@@ -225,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1307,
+      "2024-09-10": 42,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -588,8 +589,7 @@
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   }
 ]
