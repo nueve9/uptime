@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 85,
-    "timeWeek": 89,
+    "timeDay": 84,
+    "timeWeek": 91,
     "timeMonth": 107,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 443,
-    "timeWeek": 269,
-    "timeMonth": 260,
-    "timeYear": 220,
+    "timeDay": 153,
+    "timeWeek": 189,
+    "timeMonth": 246,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 320,
-    "timeDay": 386,
-    "timeWeek": 308,
-    "timeMonth": 282,
+    "time": 319,
+    "timeDay": 355,
+    "timeWeek": 306,
+    "timeMonth": 290,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -96,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 13,
+    "timeDay": 10,
     "timeWeek": 17,
     "timeMonth": 31,
-    "timeYear": 27,
+    "timeYear": 26,
     "dailyMinutesDown": {
       "2024-05-01": 37
     }
@@ -110,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
     "status": "down",
-    "uptime": "98.38%",
+    "uptime": "98.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "17.54%",
-    "uptimeMonth": "33.86%",
-    "uptimeYear": "94.06%",
+    "uptimeWeek": "3.86%",
+    "uptimeMonth": "30.57%",
+    "uptimeYear": "93.79%",
     "time": 971,
     "timeDay": 0,
-    "timeWeek": 2070,
-    "timeMonth": 1052,
-    "timeYear": 974,
+    "timeWeek": 750,
+    "timeMonth": 1060,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2024-10-27": 48,
+      "2024-10-28": 47,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -210,8 +211,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 190,
-    "timeWeek": 171,
+    "timeDay": 111,
+    "timeWeek": 168,
     "timeMonth": 185,
     "timeYear": 306,
     "dailyMinutesDown": {
@@ -235,7 +236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-27": 49,
+      "2024-10-28": 47,
+      "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
@@ -598,8 +600,7 @@
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
-      "2023-10-30": 1440,
-      "2023-10-29": 1440
+      "2023-10-30": 1440
     }
   }
 ]
