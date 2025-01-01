@@ -105,18 +105,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "97.27%",
     "time": 988,
     "timeDay": 1008,
     "timeWeek": 935,
-    "timeMonth": 1366,
+    "timeMonth": 1369,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2025-01-01": 1,
       "2024-12-31": 42,
       "2024-12-30": 65,
       "2024-12-28": 21,
@@ -183,8 +184,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1005,
-      "2024-10-20": 58,
-      "2024-10-19": 15
+      "2024-10-20": 58
     }
   },
   {
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 50,
+      "2025-01-01": 1340,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
