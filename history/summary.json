@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 103,
+    "timeDay": 94,
     "timeWeek": 175,
-    "timeMonth": 119,
+    "timeMonth": 118,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 236,
+    "timeDay": 198,
     "timeWeek": 194,
-    "timeMonth": 196,
+    "timeMonth": 191,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 327,
-    "timeDay": 162,
-    "timeWeek": 284,
-    "timeMonth": 294,
+    "time": 328,
+    "timeDay": 411,
+    "timeWeek": 291,
+    "timeMonth": 296,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 23,
-    "timeWeek": 84,
+    "timeDay": 17,
+    "timeWeek": 83,
     "timeMonth": 35,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -105,15 +105,15 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "97.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.18%",
-    "time": 991,
-    "timeDay": 1731,
-    "timeWeek": 1235,
-    "timeMonth": 1435,
-    "timeYear": 978,
+    "time": 993,
+    "timeDay": 3581,
+    "timeWeek": 1385,
+    "timeMonth": 1433,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-01-17": 43,
       "2025-01-16": 105,
@@ -194,8 +194,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 202,
-    "timeWeek": 142,
+    "timeDay": 127,
+    "timeWeek": 144,
     "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
@@ -220,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-18": 42,
+      "2025-01-19": 47,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -583,8 +584,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   }
 ]
