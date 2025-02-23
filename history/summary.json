@@ -191,10 +191,10 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
@@ -203,6 +203,7 @@
     "timeMonth": 149,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2024-12-20": 50,
       "2024-06-20": 18
     }
@@ -224,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-23": 49,
+      "2025-02-23": 178,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
