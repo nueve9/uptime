@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 144,
-    "timeWeek": 104,
-    "timeMonth": 99,
+    "timeDay": 101,
+    "timeWeek": 98,
+    "timeMonth": 98,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 189,
-    "timeWeek": 114,
-    "timeMonth": 124,
+    "timeDay": 58,
+    "timeWeek": 95,
+    "timeMonth": 101,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 322,
-    "timeDay": 374,
-    "timeWeek": 353,
-    "timeMonth": 327,
+    "time": 323,
+    "timeDay": 479,
+    "timeWeek": 379,
+    "timeMonth": 333,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 19,
-    "timeWeek": 20,
-    "timeMonth": 20,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 19,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2024-05-01": 37
@@ -104,14 +104,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "96.92%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "97.03%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.43%",
     "time": 984,
-    "timeDay": 955,
-    "timeWeek": 857,
-    "timeMonth": 1087,
+    "timeDay": 862,
+    "timeWeek": 856,
+    "timeMonth": 1085,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2025-03-05": 43,
@@ -198,8 +198,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 157,
-    "timeWeek": 136,
+    "timeDay": 152,
+    "timeWeek": 139,
     "timeMonth": 168,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -225,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 1353,
+      "2025-03-06": 46,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -588,8 +589,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
