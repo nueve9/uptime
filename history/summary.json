@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 114,
-    "timeWeek": 131,
+    "timeDay": 87,
+    "timeWeek": 123,
     "timeMonth": 115,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 674,
-    "timeWeek": 191,
+    "timeDay": 72,
+    "timeWeek": 160,
     "timeMonth": 175,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 322,
-    "timeDay": 317,
-    "timeWeek": 339,
-    "timeMonth": 422,
+    "timeDay": 401,
+    "timeWeek": 381,
+    "timeMonth": 419,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2024-09-07": 51
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 27,
-    "timeWeek": 17,
-    "timeMonth": 25,
+    "timeDay": 12,
+    "timeWeek": 15,
+    "timeMonth": 24,
     "timeYear": 32,
     "dailyMinutesDown": {}
   },
@@ -103,10 +103,10 @@
     "uptimeMonth": "95.92%",
     "uptimeYear": "99.27%",
     "time": 1011,
-    "timeDay": 855,
-    "timeWeek": 918,
+    "timeDay": 738,
+    "timeWeek": 885,
     "timeMonth": 949,
-    "timeYear": 1018,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-06-17": 44,
       "2025-06-15": 44,
@@ -187,10 +187,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 161,
-    "timeDay": 240,
-    "timeWeek": 151,
-    "timeMonth": 146,
+    "time": 162,
+    "timeDay": 177,
+    "timeWeek": 154,
+    "timeMonth": 149,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-02-23": 32,
@@ -215,7 +215,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 800,
+      "2025-06-18": 54,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -578,8 +579,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   }
 ]
