@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 104,
-    "timeWeek": 96,
+    "timeDay": 101,
+    "timeWeek": 99,
     "timeMonth": 117,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 177,
-    "timeWeek": 128,
-    "timeMonth": 140,
-    "timeYear": 205,
+    "time": 206,
+    "timeDay": 591,
+    "timeWeek": 204,
+    "timeMonth": 157,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 343,
-    "timeWeek": 265,
-    "timeMonth": 345,
-    "timeYear": 330,
+    "timeDay": 358,
+    "timeWeek": 263,
+    "timeMonth": 339,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-09-07": 51
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 21,
-    "timeWeek": 19,
+    "timeDay": 22,
+    "timeWeek": 20,
     "timeMonth": 17,
     "timeYear": 31,
     "dailyMinutesDown": {}
@@ -98,17 +98,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.61%",
+    "uptimeDay": "94.04%",
     "uptimeWeek": "96.07%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "99.27%",
-    "time": 1014,
-    "timeDay": 859,
-    "timeWeek": 967,
-    "timeMonth": 922,
-    "timeYear": 1015,
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "99.28%",
+    "time": 1017,
+    "timeDay": 1432,
+    "timeWeek": 1144,
+    "timeMonth": 965,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-07-05": 86,
       "2025-07-04": 113,
@@ -170,8 +170,7 @@
       "2025-04-23": 179,
       "2025-04-22": 54,
       "2025-04-21": 29,
-      "2025-04-20": 42,
-      "2025-04-19": 18
+      "2025-04-20": 42
     }
   },
   {
@@ -186,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 166,
-    "timeDay": 131,
-    "timeWeek": 155,
-    "timeMonth": 150,
+    "timeDay": 117,
+    "timeWeek": 152,
+    "timeMonth": 149,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-02-23": 32,
@@ -212,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1300,
+      "2025-07-05": 1414,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
