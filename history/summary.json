@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 107,
-    "timeWeek": 95,
-    "timeMonth": 118,
+    "timeDay": 122,
+    "timeWeek": 99,
+    "timeMonth": 117,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-06-22": 24
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 196,
-    "timeWeek": 293,
-    "timeMonth": 169,
-    "timeYear": 207,
+    "time": 207,
+    "timeDay": 675,
+    "timeWeek": 360,
+    "timeMonth": 182,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -44,17 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 245,
-    "timeWeek": 269,
-    "timeMonth": 319,
+    "timeDay": 208,
+    "timeWeek": 267,
+    "timeMonth": 325,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-07-10": 13,
       "2024-09-07": 51
     }
   },
@@ -88,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 17,
+    "timeDay": 19,
     "timeWeek": 18,
     "timeMonth": 17,
     "timeYear": 31,
@@ -101,14 +100,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "94.89%",
+    "uptimeDay": "96.15%",
     "uptimeWeek": "96.09%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "99.30%",
     "time": 1019,
-    "timeDay": 1063,
-    "timeWeek": 1101,
-    "timeMonth": 987,
+    "timeDay": 1047,
+    "timeWeek": 1103,
+    "timeMonth": 983,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-07-10": 55,
@@ -186,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 167,
-    "timeDay": 119,
+    "timeDay": 228,
     "timeWeek": 150,
-    "timeMonth": 149,
+    "timeMonth": 151,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-02-23": 32,
@@ -212,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 1192,
+      "2025-07-11": 56,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -575,8 +575,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   }
 ]
