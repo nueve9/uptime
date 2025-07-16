@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 89,
-    "timeWeek": 117,
-    "timeMonth": 114,
+    "timeDay": 80,
+    "timeWeek": 114,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-06-22": 24
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 120,
-    "timeWeek": 310,
+    "time": 207,
+    "timeDay": 67,
+    "timeWeek": 222,
     "timeMonth": 192,
     "timeYear": 208,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 323,
-    "timeDay": 146,
-    "timeWeek": 277,
+    "time": 324,
+    "timeDay": 435,
+    "timeWeek": 314,
     "timeMonth": 318,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2024-09-07": 51
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 23,
-    "timeWeek": 17,
+    "timeDay": 12,
+    "timeWeek": 16,
     "timeMonth": 18,
     "timeYear": 31,
     "dailyMinutesDown": {}
@@ -104,10 +104,10 @@
     "uptimeWeek": "96.38%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.30%",
-    "time": 1016,
-    "timeDay": 987,
-    "timeWeek": 961,
-    "timeMonth": 996,
+    "time": 1015,
+    "timeDay": 849,
+    "timeWeek": 939,
+    "timeMonth": 993,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-07-15": 82,
@@ -180,14 +180,14 @@
     "slug": "tcp-ping",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 2753,
-    "timeWeek": 816,
-    "timeMonth": 322,
+    "timeDay": 159,
+    "timeWeek": 812,
+    "timeMonth": 324,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2025-07-14": 31,
@@ -212,7 +212,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 1350,
+      "2025-07-16": 57,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -575,8 +576,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   }
 ]
