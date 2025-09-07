@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 64,
-    "timeWeek": 130,
+    "timeDay": 78,
+    "timeWeek": 131,
     "timeMonth": 103,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 213,
-    "timeWeek": 107,
-    "timeMonth": 193,
+    "timeDay": 73,
+    "timeWeek": 106,
+    "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -49,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 330,
-    "timeDay": 423,
+    "timeDay": 474,
     "timeWeek": 324,
-    "timeMonth": 345,
+    "timeMonth": 346,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2024-09-07": 51
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
@@ -86,9 +84,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 31,
-    "timeDay": 8,
-    "timeWeek": 14,
+    "time": 30,
+    "timeDay": 12,
+    "timeWeek": 15,
     "timeMonth": 18,
     "timeYear": 30,
     "dailyMinutesDown": {}
@@ -100,14 +98,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "89.69%",
+    "uptimeDay": "90.30%",
     "uptimeWeek": "94.29%",
-    "uptimeMonth": "94.84%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "99.21%",
     "time": 1056,
     "timeDay": 913,
     "timeWeek": 1313,
-    "timeMonth": 1143,
+    "timeMonth": 1146,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-09-06": 149,
@@ -186,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 182,
-    "timeDay": 115,
-    "timeWeek": 148,
-    "timeMonth": 168,
+    "timeDay": 160,
+    "timeWeek": 149,
+    "timeMonth": 169,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2025-07-14": 31,
@@ -213,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 1334,
+      "2025-09-07": 53,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -576,8 +575,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   }
 ]
