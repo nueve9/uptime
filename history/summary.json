@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 155,
-    "timeWeek": 93,
-    "timeMonth": 123,
+    "timeDay": 89,
+    "timeWeek": 92,
+    "timeMonth": 122,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-06-22": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 296,
-    "timeWeek": 122,
-    "timeMonth": 204,
+    "timeDay": 69,
+    "timeWeek": 116,
+    "timeMonth": 199,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 366,
-    "timeWeek": 308,
-    "timeMonth": 234,
+    "time": 322,
+    "timeDay": 354,
+    "timeWeek": 342,
+    "timeMonth": 242,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 12,
-    "timeWeek": 18,
+    "timeDay": 26,
+    "timeWeek": 19,
     "timeMonth": 38,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -105,9 +105,9 @@
     "uptimeMonth": "99.25%",
     "uptimeYear": "98.99%",
     "time": 1144,
-    "timeDay": 784,
-    "timeWeek": 893,
-    "timeMonth": 988,
+    "timeDay": 731,
+    "timeWeek": 851,
+    "timeMonth": 979,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2026-01-19": 37,
@@ -192,9 +192,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 121,
-    "timeWeek": 131,
-    "timeMonth": 185,
+    "timeDay": 193,
+    "timeWeek": 145,
+    "timeMonth": 187,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-07-14": 31,
@@ -218,7 +218,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 59,
+      "2026-01-22": 59,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -581,8 +582,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   }
 ]
