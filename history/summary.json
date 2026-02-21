@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 79,
-    "timeWeek": 124,
+    "timeDay": 82,
+    "timeWeek": 121,
     "timeMonth": 119,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 188,
+    "timeDay": 191,
     "timeWeek": 161,
-    "timeMonth": 175,
-    "timeYear": 199,
+    "timeMonth": 179,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 313,
-    "timeWeek": 258,
+    "timeDay": 357,
+    "timeWeek": 262,
     "timeMonth": 265,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 32,
-    "timeWeek": 47,
-    "timeMonth": 37,
+    "timeDay": 17,
+    "timeWeek": 46,
+    "timeMonth": 36,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -98,16 +98,16 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "74.42%",
-    "uptimeWeek": "79.70%",
+    "uptimeDay": "74.41%",
+    "uptimeWeek": "79.75%",
     "uptimeMonth": "85.53%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 1114,
-    "timeDay": 888,
+    "timeDay": 896,
     "timeWeek": 911,
-    "timeMonth": 931,
+    "timeMonth": 933,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-02-21": 368,
@@ -170,7 +170,7 @@
       "2025-10-26": 51,
       "2025-10-25": 66,
       "2025-10-24": 372,
-      "2025-10-23": 54
+      "2025-10-23": 15
     }
   },
   {
@@ -185,9 +185,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 177,
-    "timeDay": 184,
-    "timeWeek": 153,
-    "timeMonth": 170,
+    "timeDay": 185,
+    "timeWeek": 159,
+    "timeMonth": 169,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-21": 1341,
+      "2026-02-21": 1438,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
