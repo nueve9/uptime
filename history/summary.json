@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 125,
-    "timeWeek": 125,
+    "timeDay": 104,
+    "timeWeek": 126,
     "timeMonth": 120,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 199,
-    "timeWeek": 147,
-    "timeMonth": 166,
-    "timeYear": 202,
+    "timeDay": 331,
+    "timeWeek": 188,
+    "timeMonth": 170,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 156,
-    "timeWeek": 159,
-    "timeMonth": 263,
+    "time": 317,
+    "timeDay": 231,
+    "timeWeek": 176,
+    "timeMonth": 260,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -87,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 22,
+    "timeDay": 25,
     "timeWeek": 40,
     "timeMonth": 59,
     "timeYear": 49,
@@ -105,9 +105,9 @@
     "uptimeMonth": "87.16%",
     "uptimeYear": "98.93%",
     "time": 1097,
-    "timeDay": 951,
-    "timeWeek": 1013,
-    "timeMonth": 946,
+    "timeDay": 941,
+    "timeWeek": 1005,
+    "timeMonth": 947,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2026-03-15": 251,
@@ -146,10 +146,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 180,
-    "timeDay": 195,
-    "timeWeek": 409,
-    "timeMonth": 224,
+    "time": 181,
+    "timeDay": 251,
+    "timeWeek": 429,
+    "timeMonth": 227,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -173,7 +173,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-15": 1383,
+      "2026-03-16": 79,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -536,8 +537,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   }
 ]
