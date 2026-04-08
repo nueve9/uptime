@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 194,
+    "timeDay": 133,
     "timeWeek": 148,
-    "timeMonth": 130,
+    "timeMonth": 132,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-06-22": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 242,
-    "timeWeek": 218,
-    "timeMonth": 153,
+    "timeDay": 271,
+    "timeWeek": 228,
+    "timeMonth": 158,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 246,
-    "timeWeek": 309,
-    "timeMonth": 256,
+    "timeDay": 401,
+    "timeWeek": 306,
+    "timeMonth": 261,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 38,
-    "timeWeek": 47,
+    "timeDay": 20,
+    "timeWeek": 43,
     "timeMonth": 43,
-    "timeYear": 48,
+    "timeYear": 47,
     "dailyMinutesDown": {}
   },
   {
@@ -100,14 +100,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "52.01%",
-    "uptimeWeek": "77.75%",
+    "uptimeDay": "59.16%",
+    "uptimeWeek": "78.68%",
     "uptimeMonth": "82.76%",
     "uptimeYear": "98.56%",
     "time": 1075,
-    "timeDay": 1002,
-    "timeWeek": 923,
-    "timeMonth": 930,
+    "timeDay": 971,
+    "timeWeek": 926,
+    "timeMonth": 929,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-04-07": 669,
@@ -149,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 181,
-    "timeDay": 269,
-    "timeWeek": 188,
-    "timeMonth": 212,
+    "timeDay": 203,
+    "timeWeek": 199,
+    "timeMonth": 215,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -175,7 +175,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 1363,
+      "2026-04-08": 81,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -538,8 +539,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
