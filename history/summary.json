@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 76,
-    "timeWeek": 114,
-    "timeMonth": 130,
+    "timeDay": 138,
+    "timeWeek": 121,
+    "timeMonth": 126,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-06-22": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 215,
-    "timeWeek": 201,
-    "timeMonth": 156,
+    "timeDay": 53,
+    "timeWeek": 174,
+    "timeMonth": 153,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 113,
-    "timeWeek": 300,
-    "timeMonth": 266,
-    "timeYear": 310,
+    "timeDay": 119,
+    "timeWeek": 299,
+    "timeMonth": 261,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-12-17": 24
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 23,
-    "timeWeek": 21,
-    "timeMonth": 42,
+    "timeDay": 30,
+    "timeWeek": 22,
+    "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {}
   },
@@ -98,17 +98,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "88.45%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "91.85%",
     "uptimeWeek": "82.51%",
-    "uptimeMonth": "82.48%",
-    "uptimeYear": "98.54%",
+    "uptimeMonth": "82.72%",
+    "uptimeYear": "98.56%",
     "time": 1076,
-    "timeDay": 942,
-    "timeWeek": 939,
+    "timeDay": 957,
+    "timeWeek": 938,
     "timeMonth": 921,
-    "timeYear": 1075,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-04-10": 117,
       "2026-04-09": 225,
@@ -135,7 +135,7 @@
       "2026-03-19": 433,
       "2026-03-18": 423,
       "2026-03-17": 110,
-      "2026-03-16": 235
+      "2026-03-16": 129
     }
   },
   {
@@ -150,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 180,
-    "timeDay": 201,
-    "timeWeek": 196,
-    "timeMonth": 215,
+    "timeDay": 126,
+    "timeWeek": 188,
+    "timeMonth": 159,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 1169,
+      "2026-04-10": 1430,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
