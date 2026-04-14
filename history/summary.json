@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 117,
-    "timeWeek": 107,
+    "timeWeek": 102,
     "timeMonth": 127,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 199,
-    "timeWeek": 140,
-    "timeMonth": 155,
+    "timeWeek": 118,
+    "timeMonth": 153,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeYear": "100.00%",
     "time": 313,
     "timeDay": 328,
-    "timeWeek": 299,
-    "timeMonth": 285,
-    "timeYear": 311,
+    "timeWeek": 282,
+    "timeMonth": 289,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-12-17": 24
     }
@@ -89,7 +89,7 @@
     "time": 46,
     "timeDay": 22,
     "timeWeek": 21,
-    "timeMonth": 38,
+    "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {}
   },
@@ -98,17 +98,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "62.13%",
-    "uptimeWeek": "78.38%",
-    "uptimeMonth": "82.27%",
-    "uptimeYear": "98.52%",
+    "uptimeDay": "62.11%",
+    "uptimeWeek": "78.85%",
+    "uptimeMonth": "82.48%",
+    "uptimeYear": "98.54%",
     "time": 1073,
     "timeDay": 858,
-    "timeWeek": 903,
+    "timeWeek": 899,
     "timeMonth": 903,
-    "timeYear": 1073,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2026-04-14": 546,
       "2026-04-13": 259,
@@ -134,8 +134,7 @@
       "2026-03-24": 168,
       "2026-03-23": 429,
       "2026-03-22": 473,
-      "2026-03-21": 204,
-      "2026-03-20": 93
+      "2026-03-21": 204
     }
   },
   {
@@ -151,8 +150,8 @@
     "uptimeYear": "99.98%",
     "time": 180,
     "timeDay": 113,
-    "timeWeek": 154,
-    "timeMonth": 157,
+    "timeWeek": 146,
+    "timeMonth": 156,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -176,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1314,
+      "2026-04-14": 1417,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
