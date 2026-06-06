@@ -100,14 +100,14 @@
     "slug": "secret-site-bis",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "57.71%",
-    "uptimeWeek": "73.90%",
-    "uptimeMonth": "77.29%",
-    "uptimeYear": "97.16%",
+    "uptimeDay": "51.18%",
+    "uptimeWeek": "73.05%",
+    "uptimeMonth": "77.17%",
+    "uptimeYear": "97.14%",
     "time": 1055,
     "timeDay": 863,
     "timeWeek": 897,
-    "timeMonth": 918,
+    "timeMonth": 916,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-04-23": 364,
@@ -153,7 +153,7 @@
       "2026-06-02": 396,
       "2026-06-03": 580,
       "2026-06-05": 609,
-      "2026-06-06": 1
+      "2026-06-06": 102
     }
   },
   {
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 24,
+      "2026-06-06": 125,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
