@@ -13,7 +13,7 @@
     "time": 111,
     "timeDay": 55,
     "timeWeek": 78,
-    "timeMonth": 77,
+    "timeMonth": 76,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 203,
     "timeDay": 89,
     "timeWeek": 334,
-    "timeMonth": 217,
+    "timeMonth": 215,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 308,
     "timeDay": 330,
     "timeWeek": 253,
-    "timeMonth": 276,
+    "timeMonth": 278,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -87,7 +87,7 @@
     "time": 46,
     "timeDay": 20,
     "timeWeek": 39,
-    "timeMonth": 38,
+    "timeMonth": 37,
     "timeYear": 49,
     "dailyMinutesDown": {}
   },
@@ -98,14 +98,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "73.10%",
+    "uptimeDay": "75.25%",
     "uptimeWeek": "73.32%",
     "uptimeMonth": "79.77%",
     "uptimeYear": "96.89%",
     "time": 1113,
     "timeDay": 761,
     "timeWeek": 907,
-    "timeMonth": 1788,
+    "timeMonth": 1798,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2026-05-14": 896,
@@ -174,7 +174,7 @@
     "time": 176,
     "timeDay": 84,
     "timeWeek": 107,
-    "timeMonth": 104,
+    "timeMonth": 100,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-07-14": 31,
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 82,
+      "2026-07-04": 112,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
