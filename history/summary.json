@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 79,
-    "timeWeek": 75,
-    "timeMonth": 77,
+    "timeDay": 126,
+    "timeWeek": 82,
+    "timeMonth": 79,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 41,
-    "timeWeek": 113,
-    "timeMonth": 177,
+    "timeDay": 229,
+    "timeWeek": 140,
+    "timeMonth": 181,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 91,
-    "timeWeek": 189,
-    "timeMonth": 245,
+    "timeDay": 233,
+    "timeWeek": 175,
+    "timeMonth": 239,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 44,
-    "timeWeek": 37,
-    "timeMonth": 38,
+    "timeDay": 54,
+    "timeWeek": 42,
+    "timeMonth": 39,
     "timeYear": 49,
     "dailyMinutesDown": {}
   },
@@ -99,13 +99,13 @@
     "status": "up",
     "uptime": "99.49%",
     "uptimeDay": "84.05%",
-    "uptimeWeek": "83.04%",
+    "uptimeWeek": "83.16%",
     "uptimeMonth": "81.37%",
     "uptimeYear": "97.25%",
     "time": 1131,
-    "timeDay": 1051,
-    "timeWeek": 1966,
-    "timeMonth": 1174,
+    "timeDay": 1005,
+    "timeWeek": 1973,
+    "timeMonth": 1177,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-05-24": 58,
@@ -170,8 +170,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 175,
-    "timeDay": 53,
-    "timeWeek": 91,
+    "timeDay": 105,
+    "timeWeek": 95,
     "timeMonth": 97,
     "timeYear": 182,
     "dailyMinutesDown": {
@@ -197,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 1433,
+      "2026-07-13": 106,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -560,8 +561,7 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-14": 1440
     }
   }
 ]
