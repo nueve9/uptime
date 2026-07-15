@@ -98,7 +98,7 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "52.88%",
+    "uptimeDay": "54.04%",
     "uptimeWeek": "77.37%",
     "uptimeMonth": "79.85%",
     "uptimeYear": "97.31%",
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 60,
+      "2026-07-15": 79,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
