@@ -6,9 +6,9 @@
     "slug": "google",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 109,
     "timeDay": 205,
@@ -19,7 +19,7 @@
       "2026-08-15": 30,
       "2026-08-16": 41,
       "2026-08-17": 22,
-      "2026-08-19": 1
+      "2026-08-19": 37
     }
   },
   {
@@ -103,7 +103,7 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "64.94%",
+    "uptimeDay": "67.06%",
     "uptimeWeek": "72.83%",
     "uptimeMonth": "79.07%",
     "uptimeYear": "98.26%",
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 1018,
+      "2026-08-19": 1055,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
