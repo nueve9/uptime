@@ -4,23 +4,23 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.96%",
     "time": 110,
-    "timeDay": 267,
-    "timeWeek": 186,
-    "timeMonth": 137,
+    "timeDay": 229,
+    "timeWeek": 178,
+    "timeMonth": 136,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2026-08-15": 30,
       "2026-08-16": 41,
       "2026-08-17": 22,
       "2026-08-19": 37,
-      "2026-08-23": 78,
+      "2026-08-23": 98,
       "2026-08-22": 8
     }
   },
@@ -105,9 +105,9 @@
     "slug": "secret-site-bis",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "71.64%",
-    "uptimeMonth": "86.85%",
+    "uptimeDay": "57.27%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "86.79%",
     "uptimeYear": "98.90%",
     "time": 1099,
     "timeDay": 1004,
@@ -128,7 +128,7 @@
       "2026-08-20": 159,
       "2026-08-21": 441,
       "2026-08-22": 382,
-      "2026-08-23": 561
+      "2026-08-23": 586
     }
   },
   {
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1350,
+      "2026-08-23": 1375,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
