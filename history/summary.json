@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "95.83%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.96%",
     "time": 109,
-    "timeDay": 229,
+    "timeDay": 171,
     "timeWeek": 180,
-    "timeMonth": 134,
+    "timeMonth": 136,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2026-08-15": 30,
@@ -38,7 +38,7 @@
     "time": 207,
     "timeDay": 275,
     "timeWeek": 181,
-    "timeMonth": 184,
+    "timeMonth": 188,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -56,7 +56,7 @@
     "time": 295,
     "timeDay": 190,
     "timeWeek": 219,
-    "timeMonth": 210,
+    "timeMonth": 214,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -105,14 +105,14 @@
     "slug": "secret-site-bis",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "56.17%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "87.08%",
-    "uptimeYear": "98.92%",
+    "uptimeDay": "53.02%",
+    "uptimeWeek": "71.18%",
+    "uptimeMonth": "86.92%",
+    "uptimeYear": "98.91%",
     "time": 1099,
-    "timeDay": 982,
-    "timeWeek": 904,
-    "timeMonth": 900,
+    "timeDay": 993,
+    "timeWeek": 902,
+    "timeMonth": 899,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2026-08-10": 433,
@@ -128,7 +128,8 @@
       "2026-08-20": 159,
       "2026-08-21": 441,
       "2026-08-22": 382,
-      "2026-08-23": 603
+      "2026-08-23": 637,
+      "2026-08-24": 38
     }
   },
   {
@@ -145,7 +146,7 @@
     "time": 170,
     "timeDay": 88,
     "timeWeek": 102,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -169,7 +170,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1406,
+      "2026-08-24": 38,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -532,8 +534,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   }
 ]
