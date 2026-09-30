@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 107,
     "timeDay": 131,
-    "timeWeek": 84,
+    "timeWeek": 85,
     "timeMonth": 93,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -38,8 +38,8 @@
     "time": 206,
     "timeDay": 292,
     "timeWeek": 266,
-    "timeMonth": 186,
-    "timeYear": 211,
+    "timeMonth": 183,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -55,8 +55,8 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 224,
-    "timeWeek": 230,
-    "timeMonth": 234,
+    "timeWeek": 224,
+    "timeMonth": 236,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -93,8 +93,8 @@
     "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 40,
-    "timeWeek": 36,
-    "timeMonth": 45,
+    "timeWeek": 35,
+    "timeMonth": 44,
     "timeYear": 56,
     "dailyMinutesDown": {}
   },
@@ -103,17 +103,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "84.62%",
-    "uptimeWeek": "61.73%",
-    "uptimeMonth": "73.49%",
-    "uptimeYear": "97.02%",
-    "time": 1090,
-    "timeDay": 2092,
-    "timeWeek": 1019,
-    "timeMonth": 1250,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "72.62%",
+    "uptimeWeek": "60.02%",
+    "uptimeMonth": "73.35%",
+    "uptimeYear": "96.99%",
+    "time": 1089,
+    "timeDay": 1475,
+    "timeWeek": 1021,
+    "timeMonth": 1258,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2026-08-20": 159,
       "2026-08-21": 441,
@@ -152,7 +152,8 @@
       "2026-09-26": 435,
       "2026-09-27": 532,
       "2026-09-28": 1181,
-      "2026-09-29": 222
+      "2026-09-29": 298,
+      "2026-09-30": 97
     }
   },
   {
@@ -168,8 +169,8 @@
     "uptimeYear": "99.97%",
     "time": 168,
     "timeDay": 117,
-    "timeWeek": 93,
-    "timeMonth": 110,
+    "timeWeek": 94,
+    "timeMonth": 107,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -193,7 +194,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-29": 1364,
+      "2026-09-30": 97,
+      "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -556,8 +558,7 @@
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
-      "2025-10-01": 1440,
-      "2025-09-30": 1440
+      "2025-10-01": 1440
     }
   }
 ]
