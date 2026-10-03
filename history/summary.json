@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 107,
     "timeDay": 85,
-    "timeWeek": 88,
-    "timeMonth": 93,
+    "timeWeek": 89,
+    "timeMonth": 94,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2026-08-15": 30,
@@ -37,8 +37,8 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 194,
-    "timeWeek": 168,
-    "timeMonth": 182,
+    "timeWeek": 154,
+    "timeMonth": 175,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -55,8 +55,8 @@
     "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 330,
-    "timeWeek": 277,
-    "timeMonth": 254,
+    "timeWeek": 294,
+    "timeMonth": 255,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -103,19 +103,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "65.01%",
-    "uptimeWeek": "64.01%",
-    "uptimeMonth": "74.01%",
-    "uptimeYear": "96.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "69.77%",
+    "uptimeMonth": "74.35%",
+    "uptimeYear": "96.91%",
     "time": 1089,
-    "timeDay": 864,
-    "timeWeek": 989,
-    "timeMonth": 1241,
-    "timeYear": 1055,
+    "timeDay": 797,
+    "timeWeek": 982,
+    "timeMonth": 1259,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-08-20": 113,
+      "2026-08-20": 78,
       "2026-08-21": 441,
       "2026-08-22": 382,
       "2026-08-23": 637,
@@ -155,7 +155,8 @@
       "2026-09-29": 298,
       "2026-09-30": 97,
       "2026-10-02": 49,
-      "2026-10-01": 455
+      "2026-10-01": 455,
+      "2026-10-03": 1
     }
   },
   {
@@ -171,8 +172,8 @@
     "uptimeYear": "99.97%",
     "time": 168,
     "timeDay": 79,
-    "timeWeek": 104,
-    "timeMonth": 107,
+    "timeWeek": 106,
+    "timeMonth": 108,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -196,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-02": 183,
+      "2026-10-03": 87,
+      "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -559,8 +561,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
-      "2025-10-04": 1440,
-      "2025-10-03": 1440
+      "2025-10-04": 1440
     }
   }
 ]
