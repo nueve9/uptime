@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 106,
-    "timeDay": 91,
-    "timeWeek": 98,
+    "timeDay": 117,
+    "timeWeek": 101,
     "timeMonth": 92,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 157,
-    "timeWeek": 192,
+    "timeDay": 244,
+    "timeWeek": 208,
     "timeMonth": 210,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -54,8 +54,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 342,
-    "timeWeek": 267,
+    "timeDay": 297,
+    "timeWeek": 260,
     "timeMonth": 258,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 37,
-    "timeWeek": 35,
+    "timeDay": 54,
+    "timeWeek": 36,
     "timeMonth": 38,
     "timeYear": 57,
     "dailyMinutesDown": {}
@@ -105,13 +105,13 @@
     "slug": "secret-site-bis",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "79.49%",
-    "uptimeWeek": "66.75%",
-    "uptimeMonth": "64.79%",
-    "uptimeYear": "95.19%",
+    "uptimeDay": "75.50%",
+    "uptimeWeek": "66.18%",
+    "uptimeMonth": "64.65%",
+    "uptimeYear": "95.18%",
     "time": 1097,
-    "timeDay": 908,
-    "timeWeek": 930,
+    "timeDay": 1142,
+    "timeWeek": 944,
     "timeMonth": 1203,
     "timeYear": 1052,
     "dailyMinutesDown": {
@@ -170,7 +170,7 @@
       "2026-10-18": 304,
       "2026-10-19": 744,
       "2026-10-20": 290,
-      "2026-10-21": 5
+      "2026-10-21": 63
     }
   },
   {
@@ -185,8 +185,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 104,
-    "timeWeek": 111,
+    "timeDay": 121,
+    "timeWeek": 113,
     "timeMonth": 107,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 89,
+      "2026-10-21": 147,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
