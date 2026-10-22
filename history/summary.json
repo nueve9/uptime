@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 106,
-    "timeDay": 117,
-    "timeWeek": 101,
+    "timeDay": 84,
+    "timeWeek": 100,
     "timeMonth": 92,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 244,
-    "timeWeek": 208,
-    "timeMonth": 210,
-    "timeYear": 199,
+    "time": 207,
+    "timeDay": 324,
+    "timeWeek": 210,
+    "timeMonth": 213,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 297,
-    "timeWeek": 260,
-    "timeMonth": 258,
-    "timeYear": 264,
+    "timeDay": 206,
+    "timeWeek": 254,
+    "timeMonth": 257,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2025-12-17": 24
     }
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 54,
-    "timeWeek": 36,
+    "timeDay": 45,
+    "timeWeek": 37,
     "timeMonth": 38,
     "timeYear": 57,
     "dailyMinutesDown": {}
@@ -103,19 +103,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "66.47%",
-    "uptimeWeek": "64.50%",
-    "uptimeMonth": "64.50%",
-    "uptimeYear": "95.10%",
+    "uptimeDay": "66.22%",
+    "uptimeWeek": "64.52%",
+    "uptimeMonth": "64.49%",
+    "uptimeYear": "95.12%",
     "time": 1092,
     "timeDay": 841,
     "timeWeek": 926,
     "timeMonth": 1194,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2026-08-23": 418,
+      "2026-08-23": 347,
       "2026-08-24": 449,
       "2026-08-25": 486,
       "2026-08-26": 278,
@@ -170,7 +170,8 @@
       "2026-10-18": 304,
       "2026-10-19": 744,
       "2026-10-20": 290,
-      "2026-10-21": 483
+      "2026-10-21": 483,
+      "2026-10-22": 5
     }
   },
   {
@@ -185,8 +186,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 121,
-    "timeWeek": 113,
+    "timeDay": 102,
+    "timeWeek": 108,
     "timeMonth": 107,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -211,7 +212,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1182,
+      "2026-10-22": 86,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -574,8 +576,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   }
 ]
