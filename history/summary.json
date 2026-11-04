@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 105,
-    "timeDay": 75,
-    "timeWeek": 70,
-    "timeMonth": 83,
-    "timeYear": 107,
+    "timeDay": 121,
+    "timeWeek": 82,
+    "timeMonth": 87,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2026-08-15": 30,
       "2026-08-16": 41,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 39,
-    "timeWeek": 278,
-    "timeMonth": 190,
-    "timeYear": 200,
+    "timeDay": 38,
+    "timeWeek": 235,
+    "timeMonth": 183,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 126,
-    "timeWeek": 201,
-    "timeMonth": 267,
+    "timeDay": 216,
+    "timeWeek": 198,
+    "timeMonth": 264,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 41,
-    "timeWeek": 30,
-    "timeMonth": 35,
+    "timeDay": 33,
+    "timeWeek": 28,
+    "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {}
   },
@@ -105,14 +105,14 @@
     "slug": "secret-site-bis",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "29.45%",
+    "uptimeDay": "67.28%",
     "uptimeWeek": "69.08%",
-    "uptimeMonth": "64.81%",
+    "uptimeMonth": "65.02%",
     "uptimeYear": "94.24%",
     "time": 1072,
-    "timeDay": 990,
+    "timeDay": 880,
     "timeWeek": 1020,
-    "timeMonth": 1188,
+    "timeMonth": 1185,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2026-08-25": 486,
@@ -194,8 +194,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 165,
-    "timeDay": 86,
-    "timeWeek": 117,
+    "timeDay": 78,
+    "timeWeek": 110,
     "timeMonth": 106,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -220,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 1004,
+      "2026-11-04": 230,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -583,8 +584,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   }
 ]
