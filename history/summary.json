@@ -13,7 +13,7 @@
     "time": 105,
     "timeDay": 62,
     "timeWeek": 93,
-    "timeMonth": 83,
+    "timeMonth": 82,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2026-08-15": 30,
@@ -38,7 +38,7 @@
     "time": 208,
     "timeDay": 73,
     "timeWeek": 156,
-    "timeMonth": 171,
+    "timeMonth": 170,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -56,7 +56,7 @@
     "time": 276,
     "timeDay": 405,
     "timeWeek": 243,
-    "timeMonth": 261,
+    "timeMonth": 260,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-12-17": 24
@@ -94,7 +94,7 @@
     "time": 47,
     "timeDay": 20,
     "timeWeek": 42,
-    "timeMonth": 35,
+    "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {}
   },
@@ -103,20 +103,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-bis",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "37.47%",
-    "uptimeWeek": "52.77%",
-    "uptimeMonth": "66.70%",
-    "uptimeYear": "93.17%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "59.46%",
+    "uptimeMonth": "67.38%",
+    "uptimeYear": "93.22%",
     "time": 1058,
-    "timeDay": 867,
-    "timeWeek": 825,
-    "timeMonth": 904,
+    "timeDay": 696,
+    "timeWeek": 827,
+    "timeMonth": 906,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2026-08-29": 311,
       "2026-08-30": 38,
+      "2026-08-29": 86,
       "2026-08-31": 200,
       "2026-09-01": 592,
       "2026-09-02": 151,
@@ -188,7 +188,8 @@
       "2026-11-14": 491,
       "2026-11-15": 895,
       "2026-11-16": 769,
-      "2026-11-17": 901
+      "2026-11-17": 901,
+      "2026-11-19": 5
     }
   },
   {
@@ -206,7 +207,7 @@
     "timeDay": 77,
     "timeWeek": 94,
     "timeMonth": 102,
-    "timeYear": 144,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2026-02-20": 60,
       "2026-05-07": 118
@@ -229,7 +230,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 303,
+      "2026-11-19": 75,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -592,8 +594,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   }
 ]
